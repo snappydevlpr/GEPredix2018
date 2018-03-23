@@ -1,0 +1,37 @@
+.App {
+  text-align: left;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 100px;
+  padding: 20px;
+  color: white;
+}
+.App-Side {
+  border-left: 75px solid #222;
+  height: 700px;
+}
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+.App-SideMenu{
+    background-color: #222; 
+    max-width: 280px;
+   
+}
+
+.App-SideBarButtons{
+  display: block;
+  color: white;
+}
+
