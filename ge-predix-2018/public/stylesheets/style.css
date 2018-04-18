@@ -1,57 +1,64 @@
+/* colors
+#00b8e6 - bluish
+#ff8c1a - orangish*/
+
+
+:root{
+  --titanBlue:    #00b8e6;
+  --tuffyOrange:  #ff8c1a;
+  --offWhite:     #F5F5F5;
+  --lightGrey:    #808080;
+}
+
+
 /* The sidenav */
 .sidenav {
   height: 100%;               /* sets the height of the side bar to 100% of the page height  */
   width: 15%;               /* */
   position: fixed;            /* */
-  z-index: 1;                 /* */
   top: 0;                     /* */
   left: 0;                    /* */
-  background-color: #808080;     /* */
+  background-color: var(--lightGrey);     /* */
   overflow-x: hidden;         /* */
   padding-top: 20px;          /* */
 }
-.sidenavFooter{
-  padding-top: 100%;
-}
-/* The navigation menu links */
-.sidenav a {
-    padding: 8px 8px 8px 32px;
-    text-decoration: none;
-    font-size: 25px;
-    color: #818181;
-    display: block;
-    transition: 0.3s;
-}
-/* When you mouse over the navigation links, change their color */
-.sidenav a:hover {
-    color: #f1f1f1;
-}
-
 .button {
-    background-color: #4CAF50;        /* Green */
+    background-color: var(--titanBlue);        /* titan blue */
+    border-color:     var(--titanBlue);        /* titan blue */
     color:            white;          /* Color of text */
     padding:          15px 32px;      /* text padding */
+    margin-top:       10px;           /* sets marign spacing on top*/
     text-align:       center;         /* align text to center of button */
-    display:          line-block;     /* display inline */
+    display:          block-level;    /* display inline */
     font-size:        16px;           /* size of the font */
-    width:            100%;          /* fix the size to the width of the side bar */
+    width:            100%;           /* fix the size to the width of the side bar */
+
 }
 
+
+.sidenavFooter{
+
+}
+
+/* report button style */
 .buttonReport{
-  background-color: #FF6347;          /* set the background to red (tomato color)*/
-  border-color:     #FF6347;          /* set the border to red (tomato color)*/
+  background-color: var(--tuffyOrange);          /* set the background to red (tomato color)*/
+  border-color:     var(--tuffyOrange);          /* set the border to red (tomato color)*/
   color:            white;            /* sets the color of text to white*/
-  font-size:        30px;             /* changes the font size */
-  border-radius:    50%;              /* makes the button round */
-  size:             100px;            /* changes the size of the button */
+  font-size:        10px;             /* changes the font size */
+  border-radius:    30%;              /* makes the button round */
+
   text-align:       center;           /* centerst text */
 }
 
+/* header Formatting */
 h1{
-  font-size: 30px;
-  color: white;
+  font-size: 60px;
+  text-align: center;
+  color:     white;
 }
 
+/* section for chart body */
 .chartBody{
   height: 100%;
   width:85%;
@@ -59,10 +66,15 @@ h1{
   z-index: 1;
   top: 0;
   right: 0;
-  background-color: #F5F5F5;
+  background-color: var(--offWhite);
 
 }
 
+.h1Modal{
+  font-size: 30px;
+  color:     Black;
+  width:     100%;
+}
 
 /* The Modal (background) */
 .modal {
@@ -99,6 +111,7 @@ h1{
     text-decoration: none;
     cursor: pointer;
 }
+
 
 /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
 @media screen and (max-height: 450px) {

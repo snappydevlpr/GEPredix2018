@@ -8,12 +8,23 @@
     <!--sidemenu-->
     <div id = "mySidenav" class="sidenav">
         <h1> Airis </h1>
+
         <button class="button" id="addChart" onclick="openModal()">Add Charts</button>
+        <button class="button" id="showHeatmap" onclick="showHeatmap()">Show Heatmap</button>
+        <button class="button" id="showTable" onclick="showTable()">Show Table</button>
+        <button class="button" id="showScatterPlot" onclick="showBarGraph">Show Scatter Plot </button>
+        
+
       <div class="sidenavFooter">
-        <button class="buttonReport" id="report" > ! </button>
+        <button class="buttonReport" id="report" > Report </button>
       </div>
     </div>
     <!-- End sidemenu-->
+
+    <div class="chartBody">
+      <p>hello </p>
+    </div>
+
     <!-- AddChart Modal -->
     <!-- The Modal button popup for sidebar-->
     <div id="myModal" class="modal">
@@ -21,13 +32,16 @@
       <div class="modal-content">
         <!-- used to close modal -->
         <span class="close">&times;</span>
-        <p class="modalChart">Pick a Chart Type</p>
+        <div class="modal-Header">
+          <h1 class="h1Modal">Pick a Chart Type</h1>
+        </div>
+
+        <div class = "modal-Body" >
+
+        </div>
       </div>
     </div>
-    <div class="chartBody">
-      <p>hello </p>
-    </div>
-    <!-- ends main seciton -->
+
 
     <!-- imports the script for button actions and other stuff-->
     <script src = "index.js"></script>
