@@ -7,25 +7,29 @@
   <body>
     <!--sidemenu-->
     <div id = "mySidenav" class="sidenav">
-      <h1> Emerge </h1>
-      <button class="button" id="addChart" onclick="openModal()">Add Charts</button>
-      <button class="reportButton" id="report" > ! </button>
-      <!--<a data-target="#myModal" data-toggle="modal" href="#modalID" >Add Chart</a>-->
-    </div>
-    <!-- End sidemenu-->
-
-    <div id ="main">
-      <!-- The Modal -->
-      <div id="myModal" class="modal">
-        <!-- Modal content -->
-        <div class="modal-content">
-          <span class="close">&times;</span>
-          <p class="modalChart">Pick a Chart Type</p>
-        </div>
+        <h1> Airis </h1>
+        <button class="button" id="addChart" onclick="openModal()">Add Charts</button>
+      <div class="sidenavFooter">
+        <button class="buttonReport" id="report" > ! </button>
       </div>
     </div>
+    <!-- End sidemenu-->
+    <!-- AddChart Modal -->
+    <!-- The Modal button popup for sidebar-->
+    <div id="myModal" class="modal">
+      <!-- Modal content -->
+      <div class="modal-content">
+        <!-- used to close modal -->
+        <span class="close">&times;</span>
+        <p class="modalChart">Pick a Chart Type</p>
+      </div>
+    </div>
+    <div class="chartBody">
+      <p>hello </p>
+    </div>
+    <!-- ends main seciton -->
+
+    <!-- imports the script for button actions and other stuff-->
     <script src = "index.js"></script>
-
   </body>
-
 </html>

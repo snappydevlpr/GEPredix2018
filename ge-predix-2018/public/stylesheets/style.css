@@ -1,16 +1,18 @@
 /* The sidenav */
 .sidenav {
-  height: 100%;
-  width: 200px;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #111;
-  overflow-x: hidden;
-  padding-top: 20px;
+  height: 100%;               /* sets the height of the side bar to 100% of the page height  */
+  width: 15%;               /* */
+  position: fixed;            /* */
+  z-index: 1;                 /* */
+  top: 0;                     /* */
+  left: 0;                    /* */
+  background-color: #808080;     /* */
+  overflow-x: hidden;         /* */
+  padding-top: 20px;          /* */
 }
-
+.sidenavFooter{
+  padding-top: 100%;
+}
 /* The navigation menu links */
 .sidenav a {
     padding: 8px 8px 8px 32px;
@@ -20,7 +22,6 @@
     display: block;
     transition: 0.3s;
 }
-
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
     color: #f1f1f1;
@@ -33,13 +34,33 @@
     text-align:       center;         /* align text to center of button */
     display:          line-block;     /* display inline */
     font-size:        16px;           /* size of the font */
-    width:            200px;          /* fix the size to the width of the side bar */
+    width:            100%;          /* fix the size to the width of the side bar */
 }
 
-/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
-#main {
-    transition: margin-left .5s;
-    padding: 20px;
+.buttonReport{
+  background-color: #FF6347;          /* set the background to red (tomato color)*/
+  border-color:     #FF6347;          /* set the border to red (tomato color)*/
+  color:            white;            /* sets the color of text to white*/
+  font-size:        30px;             /* changes the font size */
+  border-radius:    50%;              /* makes the button round */
+  size:             100px;            /* changes the size of the button */
+  text-align:       center;           /* centerst text */
+}
+
+h1{
+  font-size: 30px;
+  color: white;
+}
+
+.chartBody{
+  height: 100%;
+  width:85%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  background-color: #F5F5F5;
+
 }
 
 
