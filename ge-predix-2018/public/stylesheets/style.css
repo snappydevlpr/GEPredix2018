@@ -1,162 +1,54 @@
-body {
-  /*padding: 50px;*/
-  font: 14px Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif;
-  margin: 0;
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-}
-
-a {
-  color: #00B7FF;
-}
-
-h2 {
-  font-weight: 300;
-  font-size: 40px;
-  margin: 15px 0;
-}
-
-h4 {
-  font-weight: normal;
-  font-size: 16px;
-}
-
-td {
-  vertical-align: top;
-  padding-right: 20px;
-}
-
-textarea {
-  margin: 0px;
-  width: 1138px;
-  height: 150px;
-}
-
-.header {
-  color: #ffffff;
-  padding: 20px 20px 0 20px;
-  min-height: 124px;
-
-background: rgba(40,134,175,1);
-background: -moz-linear-gradient(left, rgba(40,134,175,1) 0%, rgba(9,35,40,1) 66%, rgba(9,35,40,1) 100%);
-background: -webkit-gradient(left top, right top, color-stop(0%, rgba(40,134,175,1)), color-stop(66%, rgba(9,35,40,1)), color-stop(100%, rgba(9,35,40,1)));
-background: -webkit-linear-gradient(left, rgba(40,134,175,1) 0%, rgba(9,35,40,1) 66%, rgba(9,35,40,1) 100%);
-background: -o-linear-gradient(left, rgba(40,134,175,1) 0%, rgba(9,35,40,1) 66%, rgba(9,35,40,1) 100%);
-background: -ms-linear-gradient(left, rgba(40,134,175,1) 0%, rgba(9,35,40,1) 66%, rgba(9,35,40,1) 100%);
-background: linear-gradient(to right, rgba(40,134,175,1) 0%, rgba(9,35,40,1) 66%, rgba(9,35,40,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2886af', endColorstr='#092328', GradientType=1 );
-display: flex;
-justify-content: space-between;
-}
-
-.header-logo {
-  height: 50px;
-  float: right;
-}
-
-.header-logo-container {
-  padding: 20px 20px 20px 20px;
-  position: relative;
-}
-
-.container {
-  padding: 0 20px;
-  min-height: 200px;
-  border: 0px solid blue;
-}
-
-.section {
-    width: 80%;
-    height: 80%;
-    background: none;
-    padding: 15px 0px 0px 0px;
-    border: 0px solid red;
-
-}
-
-.body-img-container {
-  height: 420px;
-  width: 250px;
-  padding: 20px 20px 20px 20px;
-  float: left;
-  border: 0px solid blue;
-}
-
-.body-img {
-  height: 210px;
-  float: left;
-}
-
-.body-container {
-  padding: 0px 20px 0px 0px;
-  height: 460px;
-  border: 0px solid blue;
-}
-
-.footer {
-  width: 100%;
-  position: fixed;
-  bottom: 0;
-  z-index: -99;
-}
-
-.footer-logo-container {
-  position: relative;
-}
-
-.footer-logo {
-  height: 30px;
-  padding: 20px;
-  float: right;
-}
-
-li {
-  list-style: none;
-  padding-bottom: 10px;
-}
-
-.tag-multiple{
-  font-size:15px;
-  text-indent:-1.5px;
-  padding-left:2.5px;
+/* The sidenav */
+.sidenav {
   height: 100%;
-  min-height: 200px;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
 }
 
-.timeseries_button {
-    background-color: #4CAF50; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
+/* The navigation menu links */
+.sidenav a {
+    padding: 8px 8px 8px 32px;
     text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    border-radius: 8px;
-    cursor:pointer;
-    margin-top: 20px;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
 }
 
-.start-time{
-  font-size:15px;
-  text-indent:-1.5px;
-  padding-left:2.5px;
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+    color: #f1f1f1;
 }
 
-.windyservice_chart_div{
-  display: inline-block;
+.button {
+    background-color: #4CAF50;        /* Green */
+    color:            white;          /* Color of text */
+    padding:          15px 32px;      /* text padding */
+    text-align:       center;         /* align text to center of button */
+    display:          line-block;     /* display inline */
+    font-size:        16px;           /* size of the font */
+    width:            200px;          /* fix the size to the width of the side bar */
 }
 
-.windyservice_chart_canvas{
-  height:500px;
-  width:400px;
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+#main {
+    transition: margin-left .5s;
+    padding: 20px;
 }
+
+
 /* The Modal (background) */
 .modal {
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
     z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
     left: 0;
     top: 0;
     width: 100%; /* Full width */
@@ -165,27 +57,30 @@ li {
     background-color: rgb(0,0,0); /* Fallback color */
     background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
 }
-
-/* Modal Content/Box */
+/* Modal Content */
 .modal-content {
     background-color: #fefefe;
-    margin: 15% auto; /* 15% from the top and centered */
+    margin: auto;
     padding: 20px;
     border: 1px solid #888;
-    width: 80%; /* Could be more or less, depending on screen size */
+    width: 80%;
 }
-
 /* The Close Button */
 .close {
-    color:#ff3333;
+    color: #aaaaaa;
     float: right;
     font-size: 28px;
     font-weight: bold;
 }
-
 .close:hover,
 .close:focus {
-    color: black;
+    color: #000;
     text-decoration: none;
     cursor: pointer;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
 }
