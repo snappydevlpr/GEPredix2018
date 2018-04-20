@@ -13,15 +13,15 @@
 
 /* The sidenav */
 .sidenav {
-  height: 100%;               /* sets the height of the side bar to 100% of the page height  */
+  height: 65%;               /* sets the height of the side bar to 100% of the page height  */
   width: 15%;               /* */
   position: fixed;            /* */
   top: 0;                     /* */
   left: 0;                    /* */
   background-color: var(--lightGrey);     /* */
   overflow-x: hidden;         /* */
-  padding-top: 20px;          /* */
 }
+
 .button {
     background-color: var(--titanBlue);        /* titan blue */
     border-color:     var(--titanBlue);        /* titan blue */
@@ -34,7 +34,8 @@
     width:            100%;           /* fix the size to the width of the side bar */
 
 }
-
+.button:hover {opacity: .4;
+}
 
 .sidenavFooter{
 
@@ -44,10 +45,11 @@
 .buttonReport{
   background-color: var(--tuffyOrange);          /* set the background to red (tomato color)*/
   border-color:     var(--tuffyOrange);          /* set the border to red (tomato color)*/
+  margin-top:       10px;
+  width:            100%;           /* fix the size to the width of the side bar */
+  padding:          15px 32px;      /* text padding */
   color:            white;            /* sets the color of text to white*/
-  font-size:        10px;             /* changes the font size */
-  border-radius:    30%;              /* makes the button round */
-
+  font-size:        16px;             /* changes the font size */
   text-align:       center;           /* centerst text */
 }
 
