@@ -7,7 +7,6 @@ applications:
   command:  node server/app.js
 services:
  - csuf-predix-uaa
- - csuf-positioning
  # - your-name-time-series
  # - your-name-asset
 env:
