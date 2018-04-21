@@ -8,7 +8,6 @@ function learningPaths(body) {
     resultJSON = JSON.parse(getData.response);
     if ( resultJSON["learningPathsConfig"].authorization == true ) {
       var cloudbasics = document.getElementById('learningpaths.authentication');
-      cloudbasics.style.display="list-item";
       //cloudbasics.style="display";
     }
     else {
