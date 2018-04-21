@@ -11,7 +11,10 @@ services:
  # - your-name-asset
 env:
     node_env: cloud
-    uaa_service_label : predix-uaa
+    uaa_service_label : csuf-predix-uaa
+    clientId: login_client_id
+    base64ClientCredential: bG9naW5fY2xpZW50X2lkOmNzdWY=
+
     #clientId: {Enter client ID, e.g. app_client_id, and place it here}
     #base64ClientCredential: {Get clientID:clientSecret then base64 encode and place it here}
     # Following properties configured only for Timeseries WindData service Integration
