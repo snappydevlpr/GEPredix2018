@@ -28,22 +28,23 @@
         <h1 style="text-decoration:underline;"> Ozone Predictor </h1>
         <div>
           <form action="/action_page.php">
-
-            <div style="display:block">
-            <label  style="display:block" for="temperature">Temperature:</label>
-            <input type="number" name="quantity" min="0" max="120">
-            </div>
-
-            <div style="display:block">
-              <label  style="display:block" for="pressure">Pressure:</label>
+            <div>
+              <div style="display:block">
+              <label  style="display:block" for="temperature">Temperature in Fahrenheit:</label>
               <input type="number" name="quantity" min="0" max="120">
-            </div>
+              <label></label>
+              </div>
+              <div style="display:block">
+                <label  style="display:block" for="pressure">Pressure in:</label>
+                <input type="number" name="quantity" min="0" max="120">
+              </div>
 
-            <div style="display:block">
-              <label style="display:block" for="humidity">Humidity:</label>
-              <input type="number" name="quantity" min="0" max="120">
+              <div style="display:block">
+                <label style="display:block" for="humidity">Humidity %:</label>
+                <input type="number" name="quantity" min="0" max="120">
+              </div>
+              <input type="submit" value="Submit">
             </div>
-            <input type="submit" value="Submit">
           </form>
 
         </div>

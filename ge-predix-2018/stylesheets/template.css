@@ -9,25 +9,12 @@
   --offWhite:     #F5F5F5;
   --lightGrey:    #808080;
 }
-
-
-/* the button */
-.button {
-    background-color: var(--titanBlue);       /* titan blue */
-    border-color:     var(--titanBlue);       /* titan blue */
-    color:            white;                  /* Color of text */
-    margin-top:       5px;                    /* sets marign spacing on top*/
-    text-align:       center;                 /* align text to center of button */
-    display:          block-level;            /* display inline */
-    font-size:        2vw;                    /* size of the font */
-    width:            100%;                   /* fix the size to the width of the side bar */
-
-}
-
-/* Hover Button Animation */
-.button:hover {
-  opacity: .4;                                 /* sets opacity to lighter */
-}
+font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
 
 /* Report Button Style */
 .reportButton{
@@ -56,6 +43,11 @@
 }
 
 .pageLinkSideBar{
+  font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+  font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+
   color:           white;
   text-decoration: none;
   font-size:       2vw;
@@ -64,7 +56,15 @@
   display:         block;
   background:      var(--titanBlue);
 }
+
+.pageLinkSideBar:hover, .pageLinkSideBarImportant:hover{
+  opacity: .4;
+}
+
 .pageLinkSideBarImportant{
+  font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	font-style: normal;
+	font-variant: normal;
   color:           white;
   text-decoration: none;
   font-size:       2vw;
@@ -73,6 +73,7 @@
   display:         block;
   background:      var(--tuffyOrange);
 }
+
 
 .logo{
   width:   80%;
