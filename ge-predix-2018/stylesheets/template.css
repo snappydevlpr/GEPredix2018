@@ -47,7 +47,6 @@ font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetic
   font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
-
   color:           white;
   text-decoration: none;
   font-size:       2vw;
@@ -62,9 +61,9 @@ font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetic
 }
 
 .pageLinkSideBarImportant{
-  font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
-	font-style: normal;
-	font-variant: normal;
+  font-family:     "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	font-style:      normal;
+	font-variant:    normal;
   color:           white;
   text-decoration: none;
   font-size:       2vw;
@@ -139,14 +138,21 @@ font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetic
 }
 
 .main{
-  right: 0;
-  height: 100;
-  width: 85%;
-  position: fixed;
+  right:      0;
+  height:     100%;
+  width:      85%;
+  position:   fixed;
+  overflow-y: scroll;
 }
 .mainHeaders{
-  text-align: center;
+  font-family:     "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+  font-style:      normal;
+  font-variant:    normal;
+  text-align:      center;
 }
-.mainBody{
-
+p{
+  font-family:     "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+  font-style:      normal;
+  font-variant:    normal;
+  padding: 10%;
 }
