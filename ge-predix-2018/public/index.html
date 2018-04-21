@@ -17,32 +17,35 @@
 
 .logo{
   margin: auto;
-  width: 50%;
+  width: 100%;
   max-width: 200px;
   max-height: 200px;
 }
 
 .links{
-    font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
-    font-size: 14px;
-    font-style: normal;
-    font-variant: normal;
+    font-family:     "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+    font-size:       14px;
+    font-style:      normal;
+    font-variant:    normal;
     color:           white;
     text-decoration: none;
     font-size:       2vw;
     margin-top:      10px;
     text-align:      center;
     display:         block;
+    border-radius:   20%;
     background:      var(--titanBlue);
 }
-
 </style>
+
 <head>
-  <title>Predix Node JS Starter App</title>
+  <title>Airis</title>
   <link rel="stylesheet" href="stylesheets/style.css"></link>
   <script src="../scripts/learningpaths.js"></script>
 </head>
+
 <body onload="learningPaths(this);">
+
 <body class="loginContainer">
   <div class="header">
     <div class="header-logo-container">
@@ -52,9 +55,7 @@
   </div>
   <section class="section">
       <ul id=learningpaths.authentication style="display:none">
-        <li id=login >
-          <a class="links" href="/login?state=secure">Login</a>
-        </li>
+      <a class="links" href="/login?state=secure">Login</a>
     </ul>
   </section>
 </body>
