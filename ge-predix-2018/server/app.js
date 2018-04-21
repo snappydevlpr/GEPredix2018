@@ -182,7 +182,7 @@ if (config.isUaaConfigured()) {
 }
 
 app.get('/tables', function(req,res){
-  path.join(__dirname+'/table.html')
+  res.sendFile(path.join(__dirname+'/../table/table.html'));
 });
 
 //logout route
