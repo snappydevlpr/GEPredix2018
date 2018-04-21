@@ -181,10 +181,6 @@ if (config.isUaaConfigured()) {
 
 }
 
-app.get('/tables', function(req,res){
-  res.sendFile(path.join(__dirname+'/../table/table.html'));
-});
-
 //logout route
 app.get('/logout', function(req, res) {
 	req.session.destroy();

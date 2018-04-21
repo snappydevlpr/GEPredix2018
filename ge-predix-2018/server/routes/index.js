@@ -8,6 +8,11 @@ router.use(function(req,res,next){
   next();
 });
 
+app.get('/tables', function(req,res){
+  res.sendFile(path.join(__dirname+'/../table/table.html'));
+});
+
+
 router.get('/', function(req, res, next) {
   res.sendFile('index.html');
 });
