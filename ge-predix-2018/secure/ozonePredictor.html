@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../stylesheets/template.css">
+    <link rel="stylesheet" href="./stylesheets/ozonePredictor.css">
+
+  </head>
+  <body>
+
+    <!-- sidemenu -->
+    <div id = "mySidenav" class="sidenav">
+      <image src="./images/airisLogo.png" alt="logo" class="logo">
+      <h1 class="h1SideBar"> Airis </h1>
+
+      <!-- side bar menu Section -->
+      <a href="./secure.html"  class="pageLinkSideBarImportant" > Home </a>
+      <a href="./table.html"   class="pageLinkSideBar"> Tables </a>
+      <a href="./graph.html"   class="pageLinkSideBar">Graphs</a>
+      <a href="./heatmap.html" class="pageLinkSideBar">Heat Maps </a>
+      <a class= "pageLinkSideBarImportant"> Log out </a>
+    </div>
+    <!-- End sidemenu-->
+
+    <div class ="main">
+      <div class="ozoneInputForm">
+        <h1 style="text-decoration:underline;"> Ozone Predictor </h1>
+        <div>
+          <form action="/action_page.php">
+
+            <div style="display:block">
+            <label  style="display:block" for="temperature">Temperature:</label>
+            <input type="number" name="quantity" min="0" max="120">
+            </div>
+
+            <div style="display:block">
+              <label  style="display:block" for="pressure">Pressure:</label>
+              <input type="number" name="quantity" min="0" max="120">
+            </div>
+
+            <div style="display:block">
+              <label style="display:block" for="humidity">Humidity:</label>
+              <input type="number" name="quantity" min="0" max="120">
+            </div>
+            <input type="submit" value="Submit">
+          </form>
+
+        </div>
+      </div>
+    </div>
+
+    <script src = "index.js"></script>
+  </body>
+</html>

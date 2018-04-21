@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;  /* */
+    overflow-x:      auto;      /* */
+    overflow-y:      scroll;    /* */
+    width:           100%;      /* */
+
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+  opacity: .4;      /* sets opacity to lighter */
+}
+
+.twoSplitTable{
+  width: 50%;
+  display:inline;
+}
