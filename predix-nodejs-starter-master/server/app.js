@@ -88,7 +88,7 @@ app.get('/learning-paths', function(req, res) {
 	res.json({"learningPathsConfig": learningpaths.getLearningPaths(config)});
 });
 
-
+app.use(express.static(path.join(__dirname, process.env['base-dir'] ? process.env['base-dir'] : '../public')));
 
 if (config.isUaaConfigured()) {
 	//Use this route to make the entire app secure.  This forces login for any path in the entire app.
@@ -154,18 +154,9 @@ if (config.isUaaConfigured()) {
     //res.send('<h2>This is a sample secure route.</h2>');
   });
 
-}
 
-// //Or you can follow this pattern to create secure routes,
-// // if only some portions of the app are secure.
-// app.get('/tables', passport.authenticate('main', {
-//   noredirect: true //Don't redirect a user to the authentication page, just show an error
-//   }), function(req, res) {
-//   console.log('Accessing the secure route');
-//   // modify this to send a secure.html file if desired.
-//   res.sendFile(path.join(__dirname + '/../tables/table.html'));
-//   //res.send('<h2>This is a sample secure route.</h2>');
-// });
+
+}
 
 //logout route
 app.get('/logout', function(req, res) {
