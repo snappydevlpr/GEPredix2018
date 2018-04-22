@@ -165,6 +165,17 @@ if (config.isUaaConfigured()) {
     //res.send('<h2>This is a sample secure route.</h2>');
   });
 
+  //Or you can follow this pattern to create secure routes,
+  // if only some portions of the app are secure.
+  app.get('/graph', passport.authenticate('main', {
+    noredirect: true //Don't redirect a user to the authentication page, just show an error
+    }), function(req, res) {
+    console.log('Accessing the graph route');
+    // modify this to send a secure.html file if desired.
+    res.sendFile(path.join(__dirname + '/../graph/graph.html'));
+    //res.send('<h2>This is a sample secure route.</h2>');
+  });
+
 }
 
 
