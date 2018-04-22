@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
-
 <style>
+      .ozoneInputForm{
+        border: 1px;
+        text-align: center;
+        padding:20%;
+      }
     /* colors
     #00b8e6 - bluish
     #ff8c1a - orangish*/
@@ -158,64 +162,62 @@
       font-family:     "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
       font-style:      normal;
       font-variant:    normal;
-      padding: 25px;
-    }
-    li{
-      font-family:     "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
-      font-style:      normal;
-      font-variant:    normal;
-      padding-left: 25px;
+      padding: 10%;
     }
 </style>
 
-
   <head>
+
     <meta charset="UTF-8">
     <link rel="stylesheet" href="../stylesheets/template.css">
-    <link rel="stylesheet" href="./stylesheets/table.css"
-    <body onload="./scripts/testing.js">
+    <link rel="stylesheet" href="./stylesheets/ozonePredictor.css">
+
   </head>
   <body>
+
     <!-- sidemenu -->
     <div id = "mySidenav" class="sidenav">
       <image src="./images/airisLogo.png" alt="logo" class="logo">
       <h1 class="h1SideBar"> Airis </h1>
 
       <!-- side bar menu Section -->
-
-      <!-- sidebar menu Section -->
-      <a href="./secure"   class="pageLinkSideBarImportant" > Home </a>
-      <a href=  "./graph" class="pageLinkSideBar">Graphs</a>
-      <a href=  "./heatmaps" class="pageLinkSideBar">Heat Maps </a>
-      <a href=  "./ozonePredictor" class= "pageLinkSideBarImportant"> Ozone Predictor </a>
-      <a href=  "/logout" class= "pageLinkSideBarImportant"> Log out </a>
-
-
+      <a href="./secure"  class="pageLinkSideBarImportant" > Home </a>
+      <a href="./table"   class="pageLinkSideBar"> Tables </a>
+      <a href="./graph"   class="pageLinkSideBar">Graphs</a>
+      <a href="./heatmap" class="pageLinkSideBar">Heat Maps </a>
+      <a href="./logout" class= "pageLinkSideBarImportant"> Log out </a>
     </div>
+
+
     <!-- End sidemenu-->
     <div class ="main">
-      <table id= "myData">
-        <tr>
-          <th>
-            Coordinates
-            <div style="width=100%">
-              <div class="twoSplitTable">Longitude</div>
-              <div class="twoSplitTable">Latitude</div>
+      <div class="ozoneInputForm">
+        <h1 style="text-decoration:underline;"> Ozone Predictor </h1>
+        <div>
+          <form action="/action_page.php">
+            <div>
+              <div style="display:block">
+              <label  style="display:block" for="temperature">Temperature in Fahrenheit:</label>
+              <input type="number" name="quantity" min="0" max="120">
+              <label></label>
+              </div>
+              <div style="display:block">
+                <label  style="display:block" for="pressure">Pressure in:</label>
+                <input type="number" name="quantity" min="0" max="120">
+              </div>
+
+              <div style="display:block">
+                <label style="display:block" for="humidity">Humidity %:</label>
+                <input type="number" name="quantity" min="0" max="120">
+              </div>
+              <input type="submit" value="Submit">
             </div>
-          </th>
-          <th> Time </th>
-          <th>Temperature</th>
-          <th>Pressure</th>
-          <th>Humidity</th>
-        </tr>
-        <tr>
-          <td>Peter</td>
-          <td>Griffin</td>
-          <td>$100</td>
-        </tr>
-      </table>
+          </form>
+
+        </div>
+      </div>
     </div>
+
     <script src = "index.js"></script>
-    <script src = "testing.js"></script>
   </body>
 </html>
