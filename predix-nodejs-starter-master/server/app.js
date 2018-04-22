@@ -154,16 +154,15 @@ if (config.isUaaConfigured()) {
     //res.send('<h2>This is a sample secure route.</h2>');
   });
 
-  app.get('/tables', function(req, res) {
-    console.log('Accessing the secure route');
-    // modify this to send a secure.html file if desired.
-    res.sendFile(path.join(__dirname + '/../tables/table.html'));
-    //res.send('<h2>This is a sample secure route.</h2>');
-  });
-
-
-
 }
+
+app.get('/tables', function(req, res) {
+  console.log('Accessing the secure route');
+  // modify this to send a secure.html file if desired.
+  res.sendFile(path.join(__dirname + '/../tables/table.html'));
+  //res.send('<h2>This is a sample secure route.</h2>');
+});
+
 
 //logout route
 app.get('/logout', function(req, res) {
