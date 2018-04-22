@@ -1,103 +1,214 @@
 <!DOCTYPE html>
 <html>
+<style>
+    /* colors
+    #00b8e6 - bluish
+    #ff8c1a - orangish*/
+
+    /* sets the variable */
+    :root{
+      --titanBlue:    #00b8e6;
+      --tuffyOrange:  #ff8c1a;
+      --offWhite:     #F5F5F5;
+      --lightGrey:    #808080;
+    }
+    font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+    	font-size: 14px;
+    	font-style: normal;
+    	font-variant: normal;
+    	font-weight: 400;
+    	line-height: 20px;
+
+    /* Report Button Style */
+    .reportButton{
+      background-color: var(--tuffyOrange);         /* set the background to red (tomato color)*/
+      border-color:     var(--tuffyOrange);         /* set the border to red (tomato color)*/
+      margin-top:       10px;                       /* sets the margin-top to spacing */
+      width:            100%;                       /* fix the size to the width of the side bar */
+      color:            white;                      /* sets the color of text to white*/
+      font-size:        2vw;                        /* size of the font */
+      text-align:       center;                     /* centerst text */
+    }
+
+    /* h1 modal */
+    .h1Modal{
+      font-size: 30px;     /* */
+      color:     Black;    /* */
+      width:     100%;     /* */
+    }
+
+
+    /* Header Formatting */
+    .h1SideBar{
+        color:      white;        /* font color white */
+        font-size:  2vw;          /* Size of the font adaptable */
+        text-align: center;       /* Text align left */
+    }
+
+    .pageLinkSideBar{
+      font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+      font-size: 14px;
+    	font-style: normal;
+    	font-variant: normal;
+      color:           white;
+      text-decoration: none;
+      font-size:       2vw;
+      margin-top:      10px;
+      text-align:      center;
+      display:         block;
+      background:      var(--titanBlue);
+    }
+
+    .pageLinkSideBar:hover, .pageLinkSideBarImportant:hover{
+      opacity: .4;
+    }
+
+    .pageLinkSideBarImportant{
+      font-family:     "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+    	font-style:      normal;
+    	font-variant:    normal;
+      color:           white;
+      text-decoration: none;
+      font-size:       2vw;
+      margin-top:      10px;
+      text-align:      center;
+      display:         block;
+      background:      var(--tuffyOrange);
+    }
+
+
+    .logo{
+      width:   80%;
+      padding: 10%;
+    }
+    /* section for chart body */
+    .mainBody{
+      height: 100%;                        /* */
+      width:85%;                           /* */
+      position: fixed;                     /* */
+      z-index: 1;                          /* */
+      top: 0;                              /* */
+      right: 0;                            /* */
+      background-color: var(--offWhite);   /* */
+    }
+    /* The Modal (background) */
+    .modal {
+        display: none;        /* Hidden by default */
+        position: fixed;      /* Stay in place */
+        z-index: 1;           /* Sit on top */
+        padding-top: 100px;   /* Location of the box */
+        left: 0;
+        top: 0;
+        width: 100%;                       /* Full width */
+        height: 100%;                      /* Full height */
+        overflow: auto;                    /* Enable scroll if needed */
+        background-color: rgb(0,0,0);      /* Fallback color */
+        background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    }
+
+    /* Modal Content */
+    .modal-content {
+        background-color: #fefefe;
+        margin: auto;
+        padding: 20px;
+        border: 1px solid #888;
+        width: 80%;
+    }
+    /* the sidenav */
+    .sidenav {
+      height:100%;                            /* sets the height of the side bar to 100% of the page height  */
+      width: 15%;                             /* width adapatible 15% */
+      top: 0;                                 /* sets the top to 0 so it is at the top corner */
+      left: 0;                                /* sets the sidebar to the left */
+      background-color: var(--lightGrey);     /* sets the background to light grey */
+      position: fixed;
+    }
+
+    /* The Close Button */
+    .close {
+        color: #aaaaaa;       /* */
+        float: right;         /* */
+        font-size: 28px;      /* */
+        font-weight: bold;    /* */
+    }
+
+    /* Animation Close */
+    .close:hover,
+    .close:focus {
+        color: #000;                /* */
+        text-decoration: none;      /* */
+        cursor: pointer;            /* */
+    }
+
+    .main{
+      right:      0;
+      height:     100%;
+      width:      85%;
+      position:   fixed;
+      overflow-y: scroll;
+    }
+    .mainHeaders{
+      font-family:     "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+      font-style:      normal;
+      font-variant:    normal;
+      text-align:      center;
+    }
+    p{
+      font-family:     "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+      font-style:      normal;
+      font-variant:    normal;
+      padding: 25px;
+    }
+    li{
+      font-family:     "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+      font-style:      normal;
+      font-variant:    normal;
+      padding-left: 25px;
+    }
+</style>
+
 <head>
-  <title>Predix Node JS Starter App</title>
+  <title>Home Page</title>
   <link rel="stylesheet" href="stylesheets/style.css"></link>
   <script src="../scripts/Chart.js"></script>
   <script src="../scripts/Timeseries.js"></script>
   <script src="../scripts/Asset.js"></script>
 </head>
+
 <body onload="configureTagsTimeseriesData();">
-    <div class="header">
-    <div>
-    <h2>My First Predix Sample Application</h2>
-    <h4>Predix Developer Kit</h4>
-  </div>
-  <div>
-  </div>
-<div class="header-logo-container"> 
-    <img  class="header-logo" src="/images/predix_logo.svg"></img>
+
+<div id = "mySidenav" class="sidenav">
+  <image src="./airisLogo.png" alt="logo" class="logo">
+  <h1 class="h1SideBar"> Airis </h1>
+
+  <!-- sidebar menu Section -->
+  <a href=  "./table"  class="pageLinkSideBar"> Tables </a>
+  <a href=  "./graph" class="pageLinkSideBar">Graphs</a>
+  <a href=  "./heatmaps" class="pageLinkSideBar">Heat Maps </a>
+  <a href=  "./ozonePredictor" class= "pageLinkSideBarImportant"> Ozone Predictor </button>
+  <a class= "pageLinkSideBarImportant"> Log out </a>
+</div>
+
+
+  <!-- End sidemenu-->
+  <div class ="main">
+    <div class="About">
+      <h1 class="mainHeaders"> About </h1>
+      <p>Airis uses the combination of temperature, barometric pressure, and humidity readings provided by CityIQ nodes to monitor nutrient pollution. Specifically, the primary and secondary correlations of these readings with Nitrogen and Ozone reactions within the atmosphere and their additional relation of Phosphorus runoff, encompassing the summation of their influence on the environment. The sensor data, coupled with the sensor’s location registry, is then used to detect, store, plot, and illustrate appropriate readings; producing a reliable, accessible, and comprehensible means to track current environmental trends; determine the efficiency and impacts of sustainable actions in place; and approximate future environmental effects and hazards.</p>
+    </div>
+    <div class="Goal">
+      <h1 class="mainHeaders"> Goal </h1>
+      <p>Airis provides a platform of assistance and analytical architecture with the goal of increasing the performance efficiency of a city’s sustainability programs and infrastructure development in regards to health and environmental concerns, as well as provides a medium to predict and prevent health and environmental hazards.</p>
+    </div>
+    <div class="NewFeatures">
+      <h1 class="mainHeaders"> New Features </h1>
+      <p>Airis now provides:</p>
+      <li>Table Veiw of Data </li>
+      <li>A Chart Veiw of the Data </li>
+      <li>Heatmaps of data</li>
+      <li>Ozone level Predictor</li>
     </div>
   </div>
-  <div class="container">
-    <h2>Welcome to a Secure Page.</h2>
-    <p>This page is gated by the check_token call of UAA.</p>
-
-    <ul>
-      <li>
-        <a href="/">Home</a>
-      </li>
-      <li>
-        <a href="/logout">Logout</a>
-      </li>
-    </ul>
-
-    <h3 id="tag_list_title">Wind Data Microservices Integration</h3>
-    <div class="timeseries_machine_container">
-      <table>
-        <tr>
-          <td>
-            <p><b id="predix_asset_table"></b></p>
-            <table id="aTable"></table>
-            <div style="height:100px;left: 0">
-              <a href="javascript:detailAssetModel();" id="assset_detail_link" style="display: none;">View Asset Model</a>
-            </div>
-
-            <div id="myModal" class="modal">
-
-              <div class="modal-content">
-                <span class="close" onclick="assetDetailCLose();">x</span>
-                  <textarea id="asset_detail_model" class="asset_detail_model" style="width:100%"></textarea>
-              </div>
-
-            </div>
-          </td>
-          <td>
-        <p> <b>Select the tags </b></p>
-        <select multiple id="tagList" class='tag-multiple'>
-        </select>
-      </td><td>
-        <p> <b>Select start time</b></p>
-          <select id='start-time' class ='start-time'>
-            <option value="5mi-ago">5mi-ago</option>
-            <option value="15mi-ago">15mi-ago</option>
-            <option value="30mi-ago">30mi-ago</option>
-            <option value="45mi-ago">45mi-ago</option>
-            <option value="45mi-ago">45mi-ago</option>
-            <option value="1h-ago">1h-ago</option>
-            <option value="5h-ago">5h-ago</option>
-            <option value="10h-ago">10h-ago</option>
-            <option value="1d-ago">1d-ago</option>
-            <option value="5d-ago">5d-ago</option>
-            <option value="10d-ago">10d-ago</option>
-            <option value="1w-ago">1w-ago</option>
-            <option value="2w-ago">2w-ago</option>
-            <option value="3w-ago">3w-ago</option>
-            <option value="1mm-ago">1mm-ago</option>
-            <option value="2mm-ago">2mm-ago</option>
-            <option value="3mm-ago">3mm-ago</option>
-            <option value="5mm-ago">5mm-ago</option>
-            <option value="6mm-ago">6mm-ago</option>
-            <option value="8mm-ago">8mm-ago</option>
-            <option value="1y-ago" selected='selected'>1y-ago</option>
-          </select>
-
-      </td></tr></table>
-        <button type="button" class="timeseries_button" id="timeseries_button" onclick="onclick_machineServiceData();">Submit</button>
-        <p id="windService_machine_yearly"></p>
-        <div style="width:100%">
-          <h3 id='line_chart_info'></h3>
-          <div id="add_machine_canvas">
-            <p id="windService_machine_tag"></p>
-          </div>
-      </div>
-    </div>
-
-    <div class="footer">
-      <div class="footer-logo-container">
-        <img class="footer-logo" src="/images/monogram-wdmk.png"></img>
-      </div>
-    </div>
+  <script src = "index.js"></script>
   </body>
-
 </html>
