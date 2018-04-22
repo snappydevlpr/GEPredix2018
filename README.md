@@ -1,6 +1,7 @@
 # Airis
 
-One Paragraph of project description goes here
+Airis uses the combination of temperature, barometric pressure, and humidity readings provided by CityIQ nodes to monitor nutrient pollution. Specifically, the primary and secondary correlations of these readings with Nitrogen and Ozone reactions within the atmosphere and their additional relation of Phosphorus runoff, encompassing the summation of their influence on the environment. The sensor data, coupled with the sensor’s location registry, is then used to detect, store, plot, and illustrate appropriate readings; producing a reliable, accessible, and comprehensible means to track current environmental trends; determine the efficiency and impacts of sustainable actions in place; and approximate future environmental effects and hazards. 
+
 
 ## Getting Started
 
