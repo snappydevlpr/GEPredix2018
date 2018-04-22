@@ -153,13 +153,11 @@ if (config.isUaaConfigured()) {
     res.sendFile(path.join(__dirname + '/../secure/secure.html'));
     //res.send('<h2>This is a sample secure route.</h2>');
   });
-  
-  app.get('/tables', passport.authenticate('main', {
-    noredirect: true //Don't redirect a user to the authentication page, just show an error
-    }), function(req, res) {
+
+  app.get('/tables', function(req, res) {
     console.log('Accessing the secure route');
     // modify this to send a secure.html file if desired.
-    res.sendFile(path.join(__dirname + '/table.html'));
+    res.sendFile(path.join(__dirname + '/../tables/table.html'));
     //res.send('<h2>This is a sample secure route.</h2>');
   });
 
