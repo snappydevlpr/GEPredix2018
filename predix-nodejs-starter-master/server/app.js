@@ -156,6 +156,8 @@ if (config.isUaaConfigured()) {
 
 }
 
+app.use(express.static(path.join(__dirname,'../tables')));
+
 //logout route
 app.get('/logout', function(req, res) {
 	req.session.destroy();
