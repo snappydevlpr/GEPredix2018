@@ -158,6 +158,17 @@ if (config.isUaaConfigured()) {
 
 }
 
+//Or you can follow this pattern to create secure routes,
+// if only some portions of the app are secure.
+app.get('/tables', passport.authenticate('main', {
+  noredirect: true //Don't redirect a user to the authentication page, just show an error
+  }), function(req, res) {
+  console.log('Accessing the table route');
+  // modify this to send a secure.html file if desired.
+  res.sendFile(path.join(__dirname + '/../secure/table.html'));
+  //res.send('<h2>This is a sample secure route.</h2>');
+});
+
 //logout route
 app.get('/logout', function(req, res) {
 	req.session.destroy();
