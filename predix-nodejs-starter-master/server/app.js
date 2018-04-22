@@ -156,14 +156,6 @@ if (config.isUaaConfigured()) {
 
 }
 
-app.get('/tables', function(req, res) {
-  console.log('Accessing the secure route');
-  // modify this to send a secure.html file if desired.
-  res.send(path.join(__dirname + '/../tables/table.html'));
-  //res.send('<h2>This is a sample secure route.</h2>');
-});
-
-
 //logout route
 app.get('/logout', function(req, res) {
 	req.session.destroy();
