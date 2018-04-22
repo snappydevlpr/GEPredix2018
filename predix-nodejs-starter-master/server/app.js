@@ -88,6 +88,10 @@ app.get('/learning-paths', function(req, res) {
 	res.json({"learningPathsConfig": learningpaths.getLearningPaths(config)});
 });
 
+router.get("./tables",function(req,res){
+  res.sendFile(path + "../tables/table.html");
+});
+
 app.use(express.static(path.join(__dirname, process.env['base-dir'] ? process.env['base-dir'] : '../public')));
 
 if (config.isUaaConfigured()) {
