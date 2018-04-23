@@ -209,7 +209,8 @@
                 <label style="display:block" for="humidity">Humidity %:</label>
                 <input id="humidity" type="number" name="quantity" min="0" max="120">
               </div>
-              <button type='button' onclick="ozonePredictor();">Submit</button>
+              <button onclick="ozonePredictor()">Click me</button>
+
               <div id="result">
                 <p id="numeric">hello</p>
               </div>
@@ -220,13 +221,7 @@
       </div>
     </div>
     <script type="text/javascript">
-        function tempHumidityOzone(var humidity,var temp){
-          return -0.01034 + 0.0002211*humidity + .0003525*temp;
-        }
 
-        function tempPressureOzone(var pressure, var temp){
-          return 1.68 + -.05495*pressure + -.0001346*temp
-        }
 
         function ozonePredictor()
         {
