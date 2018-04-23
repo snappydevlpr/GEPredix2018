@@ -15,21 +15,21 @@ function ozonePredictor()
   var numeric   = document.getElementById("numeric");
 
   document.getElementById("result").innerHTML = "Ozone levels are bad!";
-  var ozoneMedium = ((-0.01034 + 0.0002211*humidity + .0003525*temp)+(1.68 + -.05495*pressure + -.0001346*temp))/2;
-
-  switch(ozoneMedium)
-  {
-    case 0<=ozoneMedium && ozoneMedium<=.05:
-      document.getElementById("warning").innerHTML = "Ozone levels are good!";
-      break;
-    case .05 < ozoneMedium && ozoneMedium <= .30:
-      document.getElementById("warning").innerHTML = "Ozone levels are ok!";
-      break;
-    case .3 < ozoneMedium && ozoneMedium <= 25:
-      document.getElementById("warning").innerHTML = "Ozone levels are bad!";
-      break;
-    case default:
-      document.getElementById("warning").innerHTML = "Ozone levels cant be read";
-      break;
-  }
+  // var ozoneMedium = ((-0.01034 + 0.0002211*humidity + .0003525*temp)+(1.68 + -.05495*pressure + -.0001346*temp))/2;
+  //
+  // switch(ozoneMedium)
+  // {
+  //   case 0<=ozoneMedium && ozoneMedium<=.05:
+  //     document.getElementById("warning").innerHTML = "Ozone levels are good!";
+  //     break;
+  //   case .05 < ozoneMedium && ozoneMedium <= .30:
+  //     document.getElementById("warning").innerHTML = "Ozone levels are ok!";
+  //     break;
+  //   case .3 < ozoneMedium && ozoneMedium <= 25:
+  //     document.getElementById("warning").innerHTML = "Ozone levels are bad!";
+  //     break;
+  //   case default:
+  //     document.getElementById("warning").innerHTML = "Ozone levels cant be read";
+  //     break;
+  // }
 }
