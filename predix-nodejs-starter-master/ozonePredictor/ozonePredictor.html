@@ -226,13 +226,13 @@
           var warning   = document.getElementById("warning");
           var numeric   = document.getElementById("numeric");
           var ozoneMedium = ((-0.01034 + 0.0002211*humidity + .0003525*temp)+(1.68 + -.05495*pressure + -.0001346*temp))/2;
-
+          alert(ozoneMedium)
 
               if(0<=ozoneMedium && ozoneMedium<=.05)
               {
                 alert("Ozone levels are good!");
               }
-              else if (case .05 < ozoneMedium && ozoneMedium <= .30)
+              else if (.05 < ozoneMedium && ozoneMedium <= .30)
               {
                 alert("Ozone levels are ok!");
               }
@@ -243,7 +243,7 @@
               else{
                 alert("Ozone levels cant be read");
               }
-        
+
 
         }
     </script>
