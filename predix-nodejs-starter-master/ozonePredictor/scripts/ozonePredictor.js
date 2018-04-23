@@ -13,10 +13,9 @@ function ozonePredictor()
   var humidity  = document.getElementById("humidity").value;
   var warning   = document.getElementById("warning");
   var numeric   = document.getElementById("numeric");
-  var ozone1    = tempPressureOzone(pressure,temp);
-  var ozone2    = tempHumidityOzone(humidity,temp);
 
-  var ozoneMedium = (ozone1+ozone2)/2;
+
+  var ozoneMedium = ((-0.01034 + 0.0002211*humidity + .0003525*temp)+(1.68 + -.05495*pressure + -.0001346*temp))/2;
 
   switch(ozoneMedium)
   {
