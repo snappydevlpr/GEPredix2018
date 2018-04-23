@@ -161,7 +161,7 @@ if (config.isUaaConfigured()) {
     }), function(req, res) {
     console.log('Accessing the table route');
     // modify this to send a secure.html file if desired.
-    res.sendFile(path.join(__dirname + '/../tables/table.html'));
+    res.sendFile(path.join(__dirname + '/../tables/testing.html'));
     //res.send('<h2>This is a sample secure route.</h2>');
   });
 
