@@ -20,7 +20,29 @@ npm install nohup
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+1. Update manifest.yml with appropitate information
+
+```
+applications:
+  - name: your-name-predix-starter
+    memory: 64M
+    buildpack: nodejs_buildpack
+    command: node server/app.js
+#services:
+ # - <your-name>-secure-uaa-instance
+env:
+    node_env: cloud
+    uaa_service_label : predix-uaa
+    # Add these values for authentication in the cloud
+    #base64ClientCredential: [Use base64 credentials]
+    #loginBase64ClientCredential: [Use base64 credentials]
+```
+
+2. Push to Predix Cloud
+
+```
+px push
+```
 
 ## Built With
 
