@@ -1,0 +1,42 @@
+<html>
+
+<head>
+    <script type="text/javascript">
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js">
+    </script>
+
+    <script>
+        $(function() {
+            $.getJSON('testing.json', function(data) {
+                var tr;
+                for (var i = 0; i < data.length; i++) {
+                    tr = $('<tr/>');
+                    tr.append("<td>" + data[i].Location + "</td>");
+                    tr.append("<td>" + data[i].Timestamp + "</td>");
+                    tr.append("<td>" + JSON.stringify(data[i].Temp).substring(24, 28) + "</td>");
+                    tr.append("<td>" + JSON.stringify(data[i].Pressure).substring(26, 32) + "</td>");
+                    tr.append("<td>" + JSON.stringify(data[i].Humidity).substring(24, 28) + "</td>");
+                    $('table').append(tr);
+                }
+
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <table>
+        <tr>
+            <th> Location </th>
+            <th> TimeStamp </th>
+            <th> Temperature </th>
+            <th> Pressure </th>
+            <th> Humidity </th>
+            <tr>
+    </table>
+
+
+</body>
+
+</html>

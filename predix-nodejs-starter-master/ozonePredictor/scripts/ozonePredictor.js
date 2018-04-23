@@ -18,5 +18,19 @@ function ozonePredictor()
 
   var ozoneMedium = (ozone1+ozone2)/2;
 
-
+  switch(ozoneMedium)
+  {
+    case 0<=ozoneMedium && ozoneMedium<=.05:
+      document.getElementById("warning").innerHTML = "Ozone levels are good!";
+      break;
+    case .05 < ozoneMedium && ozoneMedium <= .30:
+      document.getElementById("warning").innerHTML = "Ozone levels are ok!";
+      break;
+    case .3 < ozoneMedium && ozoneMedium <= 25:
+      document.getElementById("warning").innerHTML = "Ozone levels are bad!";
+      break;
+    case default:
+      document.getElementById("warning").innerHTML = "Ozone levels cant be read";
+      break;
+  }
 }
