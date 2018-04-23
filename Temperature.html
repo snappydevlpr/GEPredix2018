@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8' />
+    <title>AIRIS Temperature</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <style>
+        .map-overlay {
+            font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+            position: absolute;
+            width: 26%;
+            top: 0;
+            left: 0;
+            padding: 10px;
+        }
+        
+        .map-overlay .map-overlay-inner {
+            background-color: rgba(255, 255, 255, 0.527);
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.20);
+            border-radius: 3px;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+        
+        .map-overlay h2 {
+            line-height: 24px;
+            display: block;
+            margin: 0 0 10px;
+        }
+        
+        .map-overlay .legend .bar {
+            height: 10px;
+            width: 100%;
+            background: linear-gradient(to right, #d9ff02, #fd0000);
+        }
+        
+        .map-overlay input {
+            background-color: transparent;
+            display: inline-block;
+            width: 100%;
+            position: relative;
+            margin: 0;
+            cursor: ew-resize;
+        }
+    </style>
+
+    <div id='map'></div>
+
+    <div class='map-overlay top'>
+        <div class='map-overlay-inner'>
+            <h2>Air Quality based on time. (TS: <label id='active-hour'>1</label>)</h2>
+            <input id='slider' type='range' min='1' max='175' step='1' value='1' />
+        </div>
+        <div class='map-overlay-inner'>
+            <div id='legend' class='legend'>
+                <div class='bar'></div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src='//d3js.org/d3.v3.min.js' charset='utf-8'></script>
+    <script>
+        mapboxgl.accessToken = 'pk.eyJ1IjoicmF3YWxzaHJlZSIsImEiOiJjamZ3eTJpNGo0ZWpiMzNxbzdxbHR4cXpsIn0.3IAq32YUu_he4dypIzzN9w';
+        if (!mapboxgl.supported()) {
+            alert('Your browser does not support Mapbox GL');
+        } else {
+            var map = new mapboxgl.Map({
+                container: 'map',
+                style: 'mapbox://styles/mapbox/dark-v9',
+                center: [-117.15, 32.70],
+                zoom: 13
+            });
+        }
+
+        map.on('load', function() {
+
+            // Insert the layer beneath any symbol layer.
+            var layers = map.getStyle().layers;
+
+            var labelLayerId;
+            for (var i = 0; i < layers.length; i++) {
+                if (layers[i].type === 'symbol' && layers[i].layout['text-field']) {
+                    labelLayerId = layers[i].id;
+                    break;
+                }
+            }
+
+            map.addLayer({
+                'id': '3d-buildings',
+                'source': 'composite',
+                'source-layer': 'building',
+                'filter': ['==', 'extrude', 'true'],
+                'type': 'fill-extrusion',
+                'minzoom': 11,
+                'paint': {
+                    'fill-extrusion-color': '#aaa',
+
+                    // use an 'interpolate' expression to add a smooth transition effect to the
+                    // buildings as the user zooms in
+                    'fill-extrusion-height': [
+                        "interpolate", ["linear"],
+                        ["zoom"],
+                        12, 0,
+                        12.05, ["get", "height"]
+                    ],
+                    'fill-extrusion-base': [
+                        "interpolate", ["linear"],
+                        ["zoom"],
+                        12, 0,
+                        12.05, ["get", "min_height"]
+                    ],
+                    'fill-extrusion-opacity': .6
+                }
+            }, labelLayerId);
+
+            map.addSource('temp', {
+                "type": "geojson",
+                "data": "mapping.geojson"
+            });
+
+            map.addLayer({
+                "id": "data-heat",
+                "type": "heatmap",
+                "source": "temp",
+                "maxzoom": 9,
+                "paint": {
+                    // Increase the heatmap weight based on frequency and property magnitude
+                    "heatmap-weight": [
+                        "interpolate", ["linear"],
+                        ["get", "Temp"],
+                        2850, 0,
+                        3000, 1
+                    ],
+                    // Increase the heatmap color weight weight by zoom level
+                    // heatmap-intensity is a multiplier on top of heatmap-weight
+                    "heatmap-intensity": [
+                        "interpolate", ["linear"],
+                        ["zoom"],
+                        0, 1,
+                        9, 3
+                    ],
+                    // Color ramp for heatmap.  Domain is 0 (low) to 1 (high).
+                    // Begin color ramp at 0-stop with a 0-transparancy color
+                    // to create a blur-like effect.
+                    "heatmap-color": [
+                        "interpolate", ["linear"],
+                        ["heatmap-density"],
+                        0, "rgba(33,102,172,0)",
+                        0.2, "rgb(103,169,207)",
+                        0.4, "rgb(209,229,240)",
+                        0.6, "rgb(253,219,199)",
+                        0.8, "rgb(239,138,98)",
+                        1, "rgb(178,24,43)"
+                    ],
+                    // Adjust the heatmap radius by zoom level
+                    "heatmap-radius": [
+                        "interpolate", ["linear"],
+                        ["zoom"],
+                        0, 2,
+                        9, 20
+                    ],
+                    // Transition from heatmap to circle layer by zoom level
+                    "heatmap-opacity": [
+                        "interpolate", ["linear"],
+                        ["zoom"],
+                        7, 1,
+                        9, 0
+                    ],
+                }
+            }, 'waterway-label');
+
+
+            map.addLayer({
+                'id': 'data-temp',
+                'type': 'circle',
+                'source': 'temp',
+                //filter: ['==', ['number', ['get', 'Timestamp']], 175],
+                'paint': {
+                    'circle-color': [
+                        'interpolate', ['linear'],
+                        ['get', 'Temp'],
+                        2800, '#ffaa00', // good
+                        3000, '#ff0000' // bad
+                    ],
+                    'circle-opacity': 0.90,
+                    'circle-radius': [
+                        'interpolate', ['linear'],
+                        ['get', 'Temp'],
+                        2800, 30,
+                        3000, 40
+                    ]
+                }
+            });
+
+            map.addLayer({
+                'id': 'temp-labels',
+                'type': 'symbol',
+                'source': 'temp',
+                //filter: ['==', ['number', ['get', 'Timestamp']], 175],
+                'layout': {
+                    'text-field': ['concat', ['to-string', ['get', 'Temp']], 'E-01 K'],
+                    'text-font': ['Open Sans Bold', 'Arial Unicode MS Bold'],
+                    'text-size': 12
+                },
+                'paint': {
+                    'text-color': 'rgba(0,0,0,0.5)'
+                }
+            });
+
+            document.getElementById('slider').addEventListener('input', function(e) {
+                var Timestamp = parseInt(e.target.value);
+                // update the map
+                map.setFilter('data-temp', ['==', ['number', ['get', 'Timestamp']], Timestamp]);
+                //map.setFilter('data-pressure', ['==', ['number', ['get', 'Timestamp']], Timestamp]);
+                //map.setFilter('data-humidity', ['==', ['number', ['get', 'Timestamp']], Timestamp]);
+                map.setFilter('temp-labels', ['==', ['number', ['get', 'Timestamp']], Timestamp]);
+
+                // update text in the UI
+                document.getElementById('active-hour').innerText = Timestamp;
+
+            });
+
+
+            map.on('click', 'data-temp', function(e) {
+                new mapboxgl.Popup()
+                    .setLngLat(e.features[0].geometry.coordinates)
+                    .setHTML('<b>Coordinates:</b> ' + e.features[0].geometry.coordinates)
+                    .addTo(map);
+            });
+
+        });
+    </script>
+
+</body>
+
+</html>
