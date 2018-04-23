@@ -20,6 +20,7 @@ npm install request-promise
 npm install mysql
 npm install nohup
 npm install fs
+npm install request
 ```
 
 
