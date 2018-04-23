@@ -198,20 +198,25 @@
             <div>
               <div style="display:block">
               <label  style="display:block" for="temperature">Temperature in Fahrenheit:</label>
-              <input type="number" name="quantity" min="0" max="120">
+              <input  id= "temp" type="number" name="quantity" min="0" max="120">
               <label></label>
               </div>
               <div style="display:block">
                 <label  style="display:block" for="pressure">Pressure in:</label>
-                <input type="number" name="quantity" min="0" max="120">
+                <input id= "pressure" type="number" name="quantity" min="0" max="120">
               </div>
 
               <div style="display:block">
                 <label style="display:block" for="humidity">Humidity %:</label>
-                <input type="number" name="quantity" min="0" max="120">
+                <input id="humidity" type="number" name="quantity" min="0" max="120">
               </div>
               <input type="submit" value="Submit">
+              <div id="result">
+                <h1 id="warning"></h1>
+                <p id="numeric"></p>
+              </div>
             </div>
+
           </form>
 
         </div>
@@ -219,5 +224,6 @@
     </div>
 
     <script src = "index.js"></script>
+    <script src = "ozonePredictor.js"></script>
   </body>
 </html>
