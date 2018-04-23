@@ -54,9 +54,9 @@ px push
 
 ## Contributing
 
-* ** Austin Suarez -austinmsuarez@gmail.com
-* ** Jonathan Moubayed -jonmoubayed@gmail.com
-* ** Shree Rawal -rawalshreepal000@gmail.com
+* ** Austin Suarez** -austinmsuarez@gmail.com
+* ** Jonathan Moubayed** -jonmoubayed@gmail.com
+* ** Shree Rawal** -rawalshreepal000@gmail.com
 
 
 ## Copyright
