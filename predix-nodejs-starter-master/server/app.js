@@ -207,6 +207,16 @@ if (config.isUaaConfigured()) {
     //res.send('<h2>This is a sample secure route.</h2>');
   });
 
+
+  app.get('/dataTable', passport.authenticate('main', {
+    noredirect: true //Don't redirect a user to the authentication page, just show an error
+    }), function(req, res) {
+    console.log('Accessing the mapping data route');
+    // modify this to send a secure.html file if desired.
+    res.sendFile(path.join(__dirname + '/../tables/testing.json'));
+    //res.send('<h2>This is a sample secure route.</h2>');
+  });
+
   app.get('/mapping', passport.authenticate('main', {
     noredirect: true //Don't redirect a user to the authentication page, just show an error
     }), function(req, res) {
