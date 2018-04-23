@@ -1,0 +1,9105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 1,
+        "Temp": 2927,
+        "Pressure": 101508,
+        "Humidity":5508
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 2,
+        "Temp": 2931,
+        "Pressure": 101493,
+        "Humidity":5469
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 3,
+        "Temp": 2928,
+        "Pressure": 101511,
+        "Humidity":5501
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 4,
+        "Temp": 2927,
+        "Pressure": 101497,
+        "Humidity":5517
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 5,
+        "Temp": 2925,
+        "Pressure": 101504,
+        "Humidity":5522
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 6,
+        "Temp": 2922,
+        "Pressure": 101505,
+        "Humidity":5543
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 7,
+        "Temp": 2921,
+        "Pressure": 101517,
+        "Humidity":5549
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 8,
+        "Temp": 2917,
+        "Pressure": 101489,
+        "Humidity":5628
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 9,
+        "Temp": 2914,
+        "Pressure": 101494,
+        "Humidity":5692
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 10,
+        "Temp": 2912,
+        "Pressure": 101488,
+        "Humidity":5747
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 11,
+        "Temp": 2910,
+        "Pressure": 101512,
+        "Humidity":5807
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 12,
+        "Temp": 2909,
+        "Pressure": 101549,
+        "Humidity":5862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 13,
+        "Temp": 2908,
+        "Pressure": 101545,
+        "Humidity":5921
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 14,
+        "Temp": 2907,
+        "Pressure": 101565,
+        "Humidity":5962
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 15,
+        "Temp": 2908,
+        "Pressure": 101572,
+        "Humidity":6000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 16,
+        "Temp": 2906,
+        "Pressure": 101585,
+        "Humidity":6046
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 17,
+        "Temp": 2906,
+        "Pressure": 101607,
+        "Humidity":6065
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 18,
+        "Temp": 2908,
+        "Pressure": 101610,
+        "Humidity":6070
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 19,
+        "Temp": 2907,
+        "Pressure": 101638,
+        "Humidity":6091
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 20,
+        "Temp": 2913,
+        "Pressure": 101647,
+        "Humidity":6041
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 21,
+        "Temp": 2910,
+        "Pressure": 101668,
+        "Humidity":6088
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 22,
+        "Temp": 2910,
+        "Pressure": 101692,
+        "Humidity":6127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 23,
+        "Temp": 2911,
+        "Pressure": 101695,
+        "Humidity":6126
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 24,
+        "Temp": 2913,
+        "Pressure": 101710,
+        "Humidity":6098
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 25,
+        "Temp": 2911,
+        "Pressure": 101722,
+        "Humidity":6120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 26,
+        "Temp": 2912,
+        "Pressure": 101733,
+        "Humidity":6134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 27,
+        "Temp": 2913,
+        "Pressure": 101742,
+        "Humidity":6143
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 28,
+        "Temp": 2914,
+        "Pressure": 101732,
+        "Humidity":6151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 29,
+        "Temp": 2913,
+        "Pressure": 101719,
+        "Humidity":6139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 30,
+        "Temp": 2909,
+        "Pressure": 101744,
+        "Humidity":6196
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 31,
+        "Temp": 2907,
+        "Pressure": 101749,
+        "Humidity":6207
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 32,
+        "Temp": 2904,
+        "Pressure": 101742,
+        "Humidity":6225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 33,
+        "Temp": 2904,
+        "Pressure": 101736,
+        "Humidity":6239
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 34,
+        "Temp": 2903,
+        "Pressure": 101734,
+        "Humidity":6278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 35,
+        "Temp": 2902,
+        "Pressure": 101735,
+        "Humidity":6298
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 36,
+        "Temp": 2901,
+        "Pressure": 101742,
+        "Humidity":6297
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 37,
+        "Temp": 2901,
+        "Pressure": 101739,
+        "Humidity":6300
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 38,
+        "Temp": 2900,
+        "Pressure": 101747,
+        "Humidity":6300
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 39,
+        "Temp": 2897,
+        "Pressure": 101752,
+        "Humidity":6298
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 40,
+        "Temp": 2896,
+        "Pressure": 101755,
+        "Humidity":6316
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 41,
+        "Temp": 2898,
+        "Pressure": 101749,
+        "Humidity":6277
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 42,
+        "Temp": 2894,
+        "Pressure": 101753,
+        "Humidity":6283
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 43,
+        "Temp": 2892,
+        "Pressure": 101742,
+        "Humidity":6308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 44,
+        "Temp": 2892,
+        "Pressure": 101747,
+        "Humidity":6321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 45,
+        "Temp": 2891,
+        "Pressure": 101749,
+        "Humidity":6345
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 46,
+        "Temp": 2894,
+        "Pressure": 101750,
+        "Humidity":6321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 47,
+        "Temp": 2895,
+        "Pressure": 101738,
+        "Humidity":6352
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 48,
+        "Temp": 2891,
+        "Pressure": 101746,
+        "Humidity":6405
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 49,
+        "Temp": 2891,
+        "Pressure": 101758,
+        "Humidity":6454
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 50,
+        "Temp": 2885,
+        "Pressure": 101758,
+        "Humidity":6455
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 51,
+        "Temp": 2886,
+        "Pressure": 101741,
+        "Humidity":6401
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 52,
+        "Temp": 2885,
+        "Pressure": 101738,
+        "Humidity":6373
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 53,
+        "Temp": 2883,
+        "Pressure": 101738,
+        "Humidity":6359
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 54,
+        "Temp": 2886,
+        "Pressure": 101740,
+        "Humidity":6337
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 55,
+        "Temp": 2886,
+        "Pressure": 101735,
+        "Humidity":6332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 56,
+        "Temp": 2886,
+        "Pressure": 101743,
+        "Humidity":6274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 57,
+        "Temp": 2881,
+        "Pressure": 101741,
+        "Humidity":6273
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 58,
+        "Temp": 2881,
+        "Pressure": 101744,
+        "Humidity":6295
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 59,
+        "Temp": 2881,
+        "Pressure": 101753,
+        "Humidity":6316
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 60,
+        "Temp": 2879,
+        "Pressure": 101757,
+        "Humidity":6311
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 61,
+        "Temp": 2880,
+        "Pressure": 101760,
+        "Humidity":6308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 62,
+        "Temp": 2877,
+        "Pressure": 101747,
+        "Humidity":6260
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 63,
+        "Temp": 2877,
+        "Pressure": 101773,
+        "Humidity":6236
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 64,
+        "Temp": 2881,
+        "Pressure": 101783,
+        "Humidity":6182
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 65,
+        "Temp": 2897,
+        "Pressure": 101806,
+        "Humidity":6085
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 66,
+        "Temp": 2917,
+        "Pressure": 101825,
+        "Humidity":5742
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 67,
+        "Temp": 2900,
+        "Pressure": 101838,
+        "Humidity":5784
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 68,
+        "Temp": 2897,
+        "Pressure": 101844,
+        "Humidity":5920
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 69,
+        "Temp": 2907,
+        "Pressure": 101858,
+        "Humidity":5899
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 70,
+        "Temp": 2904,
+        "Pressure": 101883,
+        "Humidity":5988
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 71,
+        "Temp": 2906,
+        "Pressure": 101895,
+        "Humidity":5963
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 72,
+        "Temp": 2916,
+        "Pressure": 101892,
+        "Humidity":5919
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 73,
+        "Temp": 2925,
+        "Pressure": 101915,
+        "Humidity":5851
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 74,
+        "Temp": 2931,
+        "Pressure": 101908,
+        "Humidity":5785
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 75,
+        "Temp": 2919,
+        "Pressure": 101901,
+        "Humidity":5876
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 76,
+        "Temp": 2925,
+        "Pressure": 101892,
+        "Humidity":5841
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 77,
+        "Temp": 2937,
+        "Pressure": 101886,
+        "Humidity":5767
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 78,
+        "Temp": 2944,
+        "Pressure": 101882,
+        "Humidity":5685
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 79,
+        "Temp": 2936,
+        "Pressure": 101874,
+        "Humidity":5726
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 80,
+        "Temp": 2935,
+        "Pressure": 101878,
+        "Humidity":5741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 81,
+        "Temp": 2927,
+        "Pressure": 101863,
+        "Humidity":5777
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 82,
+        "Temp": 2922,
+        "Pressure": 101837,
+        "Humidity":5775
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 83,
+        "Temp": 2923,
+        "Pressure": 101809,
+        "Humidity":5765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 84,
+        "Temp": 2925,
+        "Pressure": 101763,
+        "Humidity":5761
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 85,
+        "Temp": 2932,
+        "Pressure": 101739,
+        "Humidity":5736
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 86,
+        "Temp": 2933,
+        "Pressure": 101675,
+        "Humidity":5734
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 87,
+        "Temp": 2935,
+        "Pressure": 101630,
+        "Humidity":5709
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 88,
+        "Temp": 2941,
+        "Pressure": 101602,
+        "Humidity":5658
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 89,
+        "Temp": 2949,
+        "Pressure": 101565,
+        "Humidity":5569
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 90,
+        "Temp": 2940,
+        "Pressure": 101548,
+        "Humidity":5653
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 91,
+        "Temp": 2935,
+        "Pressure": 101566,
+        "Humidity":5705
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 92,
+        "Temp": 2922,
+        "Pressure": 101526,
+        "Humidity":5779
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 93,
+        "Temp": 2921,
+        "Pressure": 101539,
+        "Humidity":5776
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 94,
+        "Temp": 2920,
+        "Pressure": 101520,
+        "Humidity":5786
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 95,
+        "Temp": 2926,
+        "Pressure": 101524,
+        "Humidity":5693
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 96,
+        "Temp": 2917,
+        "Pressure": 101495,
+        "Humidity":5781
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 97,
+        "Temp": 2921,
+        "Pressure": 101519,
+        "Humidity":5770
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 98,
+        "Temp": 2922,
+        "Pressure": 101528,
+        "Humidity":5776
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 99,
+        "Temp": 2921,
+        "Pressure": 101531,
+        "Humidity":5794
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 100,
+        "Temp": 2919,
+        "Pressure": 101534,
+        "Humidity":5814
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 101,
+        "Temp": 2922,
+        "Pressure": 101526,
+        "Humidity":5779
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 102,
+        "Temp": 2927,
+        "Pressure": 101528,
+        "Humidity":5734
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 103,
+        "Temp": 2924,
+        "Pressure": 101543,
+        "Humidity":5745
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 104,
+        "Temp": 2919,
+        "Pressure": 101549,
+        "Humidity":5779
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 105,
+        "Temp": 2918,
+        "Pressure": 101562,
+        "Humidity":5797
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 106,
+        "Temp": 2918,
+        "Pressure": 101565,
+        "Humidity":5813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 107,
+        "Temp": 2914,
+        "Pressure": 101570,
+        "Humidity":5847
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 108,
+        "Temp": 2914,
+        "Pressure": 101575,
+        "Humidity":5858
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 109,
+        "Temp": 2908,
+        "Pressure": 101586,
+        "Humidity":5957
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 110,
+        "Temp": 2908,
+        "Pressure": 101595,
+        "Humidity":5988
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 111,
+        "Temp": 2906,
+        "Pressure": 101604,
+        "Humidity":6039
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 112,
+        "Temp": 2905,
+        "Pressure": 101622,
+        "Humidity":6064
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 113,
+        "Temp": 2903,
+        "Pressure": 101626,
+        "Humidity":6108
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 114,
+        "Temp": 2905,
+        "Pressure": 101633,
+        "Humidity":6120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 115,
+        "Temp": 2903,
+        "Pressure": 101636,
+        "Humidity":6173
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 116,
+        "Temp": 2902,
+        "Pressure": 101649,
+        "Humidity":6199
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 117,
+        "Temp": 2902,
+        "Pressure": 101654,
+        "Humidity":6210
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 118,
+        "Temp": 2903,
+        "Pressure": 101658,
+        "Humidity":6221
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 119,
+        "Temp": 2902,
+        "Pressure": 101655,
+        "Humidity":6230
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 120,
+        "Temp": 2903,
+        "Pressure": 101665,
+        "Humidity":6233
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 121,
+        "Temp": 2902,
+        "Pressure": 101678,
+        "Humidity":6247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 122,
+        "Temp": 2900,
+        "Pressure": 101659,
+        "Humidity":6285
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 123,
+        "Temp": 2901,
+        "Pressure": 101662,
+        "Humidity":6283
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 124,
+        "Temp": 2902,
+        "Pressure": 101650,
+        "Humidity":6291
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 125,
+        "Temp": 2898,
+        "Pressure": 101663,
+        "Humidity":6355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 126,
+        "Temp": 2897,
+        "Pressure": 101657,
+        "Humidity":6368
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 127,
+        "Temp": 2892,
+        "Pressure": 101653,
+        "Humidity":6423
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 128,
+        "Temp": 2893,
+        "Pressure": 101635,
+        "Humidity":6411
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 129,
+        "Temp": 2893,
+        "Pressure": 101641,
+        "Humidity":6409
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 130,
+        "Temp": 2888,
+        "Pressure": 101659,
+        "Humidity":6477
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 131,
+        "Temp": 2889,
+        "Pressure": 101656,
+        "Humidity":6485
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 132,
+        "Temp": 2889,
+        "Pressure": 101666,
+        "Humidity":6507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 133,
+        "Temp": 2888,
+        "Pressure": 101675,
+        "Humidity":6544
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 134,
+        "Temp": 2891,
+        "Pressure": 101682,
+        "Humidity":6540
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 135,
+        "Temp": 2891,
+        "Pressure": 101671,
+        "Humidity":6599
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 136,
+        "Temp": 2892,
+        "Pressure": 101645,
+        "Humidity":6624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 137,
+        "Temp": 2886,
+        "Pressure": 101626,
+        "Humidity":6649
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 138,
+        "Temp": 2886,
+        "Pressure": 101616,
+        "Humidity":6680
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 139,
+        "Temp": 2883,
+        "Pressure": 101588,
+        "Humidity":6684
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 140,
+        "Temp": 2881,
+        "Pressure": 101573,
+        "Humidity":6698
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 141,
+        "Temp": 2881,
+        "Pressure": 101562,
+        "Humidity":6700
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 142,
+        "Temp": 2881,
+        "Pressure": 101555,
+        "Humidity":6747
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 143,
+        "Temp": 2881,
+        "Pressure": 101559,
+        "Humidity":6780
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 144,
+        "Temp": 2878,
+        "Pressure": 101532,
+        "Humidity":6802
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 145,
+        "Temp": 2875,
+        "Pressure": 101512,
+        "Humidity":6767
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 146,
+        "Temp": 2872,
+        "Pressure": 101511,
+        "Humidity":6742
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 147,
+        "Temp": 2870,
+        "Pressure": 101533,
+        "Humidity":6726
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 148,
+        "Temp": 2870,
+        "Pressure": 101541,
+        "Humidity":6683
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 149,
+        "Temp": 2865,
+        "Pressure": 101544,
+        "Humidity":6699
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 150,
+        "Temp": 2867,
+        "Pressure": 101527,
+        "Humidity":6712
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 151,
+        "Temp": 2866,
+        "Pressure": 101526,
+        "Humidity":6669
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 152,
+        "Temp": 2865,
+        "Pressure": 101513,
+        "Humidity":6664
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 153,
+        "Temp": 2864,
+        "Pressure": 101505,
+        "Humidity":6622
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 154,
+        "Temp": 2861,
+        "Pressure": 101500,
+        "Humidity":6570
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 155,
+        "Temp": 2857,
+        "Pressure": 101499,
+        "Humidity":6564
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 156,
+        "Temp": 2856,
+        "Pressure": 101509,
+        "Humidity":6534
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 157,
+        "Temp": 2856,
+        "Pressure": 101533,
+        "Humidity":6507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 158,
+        "Temp": 2858,
+        "Pressure": 101557,
+        "Humidity":6495
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 159,
+        "Temp": 2856,
+        "Pressure": 101581,
+        "Humidity":6450
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 160,
+        "Temp": 2858,
+        "Pressure": 101614,
+        "Humidity":6448
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 161,
+        "Temp": 2897,
+        "Pressure": 101619,
+        "Humidity":6023
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 162,
+        "Temp": 2909,
+        "Pressure": 101623,
+        "Humidity":5775
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 163,
+        "Temp": 2876,
+        "Pressure": 101415,
+        "Humidity":5377
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 164,
+        "Temp": 2876,
+        "Pressure": 101415,
+        "Humidity":5369
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 165,
+        "Temp": 2878,
+        "Pressure": 101410,
+        "Humidity":5368
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 166,
+        "Temp": 2873,
+        "Pressure": 101415,
+        "Humidity":5390
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 167,
+        "Temp": 2869,
+        "Pressure": 101403,
+        "Humidity":5409
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 168,
+        "Temp": 2869,
+        "Pressure": 101422,
+        "Humidity":5415
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 169,
+        "Temp": 2863,
+        "Pressure": 101429,
+        "Humidity":5433
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 170,
+        "Temp": 2868,
+        "Pressure": 101436,
+        "Humidity":5402
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 171,
+        "Temp": 2867,
+        "Pressure": 101428,
+        "Humidity":5395
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 172,
+        "Temp": 2866,
+        "Pressure": 101422,
+        "Humidity":5401
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 173,
+        "Temp": 2866,
+        "Pressure": 101356,
+        "Humidity":5322
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 174,
+        "Temp": 2866,
+        "Pressure": 101355,
+        "Humidity":5236
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 175,
+        "Temp": 2865,
+        "Pressure": 101350,
+        "Humidity":5167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1607411, 32.70689845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 1,
+        "Temp": 2937,
+        "Pressure": 101643,
+        "Humidity":5164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 2,
+        "Temp": 2938,
+        "Pressure": 101634,
+        "Humidity":5138
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 3,
+        "Temp": 2935,
+        "Pressure": 101620,
+        "Humidity":5186
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 4,
+        "Temp": 2933,
+        "Pressure": 101637,
+        "Humidity":5200
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 5,
+        "Temp": 2931,
+        "Pressure": 101641,
+        "Humidity":5208
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 6,
+        "Temp": 2929,
+        "Pressure": 101642,
+        "Humidity":5215
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 7,
+        "Temp": 2925,
+        "Pressure": 101651,
+        "Humidity":5289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 8,
+        "Temp": 2923,
+        "Pressure": 101625,
+        "Humidity":5343
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 9,
+        "Temp": 2921,
+        "Pressure": 101616,
+        "Humidity":5415
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 10,
+        "Temp": 2919,
+        "Pressure": 101640,
+        "Humidity":5473
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 11,
+        "Temp": 2916,
+        "Pressure": 101669,
+        "Humidity":5550
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 12,
+        "Temp": 2915,
+        "Pressure": 101685,
+        "Humidity":5608
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 13,
+        "Temp": 2914,
+        "Pressure": 101699,
+        "Humidity":5654
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 14,
+        "Temp": 2914,
+        "Pressure": 101708,
+        "Humidity":5694
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 15,
+        "Temp": 2914,
+        "Pressure": 101729,
+        "Humidity":5724
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 16,
+        "Temp": 2913,
+        "Pressure": 101742,
+        "Humidity":5760
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 17,
+        "Temp": 2916,
+        "Pressure": 101749,
+        "Humidity":5770
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 18,
+        "Temp": 2917,
+        "Pressure": 101769,
+        "Humidity":5786
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 19,
+        "Temp": 2919,
+        "Pressure": 101788,
+        "Humidity":5793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 20,
+        "Temp": 2920,
+        "Pressure": 101801,
+        "Humidity":5811
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 21,
+        "Temp": 2920,
+        "Pressure": 101832,
+        "Humidity":5815
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 22,
+        "Temp": 2920,
+        "Pressure": 101843,
+        "Humidity":5819
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 23,
+        "Temp": 2919,
+        "Pressure": 101840,
+        "Humidity":5806
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 24,
+        "Temp": 2918,
+        "Pressure": 101865,
+        "Humidity":5805
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 25,
+        "Temp": 2918,
+        "Pressure": 101871,
+        "Humidity":5823
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 26,
+        "Temp": 2917,
+        "Pressure": 101884,
+        "Humidity":5823
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 27,
+        "Temp": 2917,
+        "Pressure": 101889,
+        "Humidity":5832
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 28,
+        "Temp": 2915,
+        "Pressure": 101866,
+        "Humidity":5852
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 29,
+        "Temp": 2914,
+        "Pressure": 101871,
+        "Humidity":5874
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 30,
+        "Temp": 2913,
+        "Pressure": 101886,
+        "Humidity":5903
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 31,
+        "Temp": 2911,
+        "Pressure": 101888,
+        "Humidity":5924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 32,
+        "Temp": 2908,
+        "Pressure": 101887,
+        "Humidity":5965
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 33,
+        "Temp": 2908,
+        "Pressure": 101890,
+        "Humidity":6004
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 34,
+        "Temp": 2910,
+        "Pressure": 101881,
+        "Humidity":6016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 35,
+        "Temp": 2910,
+        "Pressure": 101888,
+        "Humidity":6033
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 36,
+        "Temp": 2909,
+        "Pressure": 101889,
+        "Humidity":6047
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 37,
+        "Temp": 2907,
+        "Pressure": 101883,
+        "Humidity":6047
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 38,
+        "Temp": 2899,
+        "Pressure": 101904,
+        "Humidity":6036
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 39,
+        "Temp": 2898,
+        "Pressure": 101902,
+        "Humidity":6020
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 40,
+        "Temp": 2896,
+        "Pressure": 101895,
+        "Humidity":6001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 41,
+        "Temp": 2895,
+        "Pressure": 101897,
+        "Humidity":5992
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 42,
+        "Temp": 2893,
+        "Pressure": 101905,
+        "Humidity":5996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 43,
+        "Temp": 2893,
+        "Pressure": 101895,
+        "Humidity":5989
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 44,
+        "Temp": 2891,
+        "Pressure": 101913,
+        "Humidity":6012
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 45,
+        "Temp": 2892,
+        "Pressure": 101901,
+        "Humidity":5999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 46,
+        "Temp": 2892,
+        "Pressure": 101890,
+        "Humidity":6012
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 47,
+        "Temp": 2891,
+        "Pressure": 101893,
+        "Humidity":6042
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 48,
+        "Temp": 2891,
+        "Pressure": 101908,
+        "Humidity":6074
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 49,
+        "Temp": 2886,
+        "Pressure": 101912,
+        "Humidity":6081
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 50,
+        "Temp": 2884,
+        "Pressure": 101898,
+        "Humidity":6073
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 51,
+        "Temp": 2884,
+        "Pressure": 101893,
+        "Humidity":6042
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 52,
+        "Temp": 2884,
+        "Pressure": 101894,
+        "Humidity":5998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 53,
+        "Temp": 2885,
+        "Pressure": 101901,
+        "Humidity":6011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 54,
+        "Temp": 2884,
+        "Pressure": 101881,
+        "Humidity":6005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 55,
+        "Temp": 2883,
+        "Pressure": 101893,
+        "Humidity":5991
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 56,
+        "Temp": 2881,
+        "Pressure": 101884,
+        "Humidity":5964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 57,
+        "Temp": 2881,
+        "Pressure": 101898,
+        "Humidity":5964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 58,
+        "Temp": 2880,
+        "Pressure": 101903,
+        "Humidity":5978
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 59,
+        "Temp": 2880,
+        "Pressure": 101904,
+        "Humidity":5978
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 60,
+        "Temp": 2878,
+        "Pressure": 101913,
+        "Humidity":5978
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 61,
+        "Temp": 2875,
+        "Pressure": 101911,
+        "Humidity":5955
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 62,
+        "Temp": 2875,
+        "Pressure": 101924,
+        "Humidity":5941
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 63,
+        "Temp": 2878,
+        "Pressure": 101930,
+        "Humidity":5925
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 64,
+        "Temp": 2900,
+        "Pressure": 101931,
+        "Humidity":5785
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 65,
+        "Temp": 2912,
+        "Pressure": 101969,
+        "Humidity":5627
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 66,
+        "Temp": 2927,
+        "Pressure": 101969,
+        "Humidity":5434
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 67,
+        "Temp": 2940,
+        "Pressure": 101983,
+        "Humidity":5301
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 68,
+        "Temp": 2973,
+        "Pressure": 101995,
+        "Humidity":4966
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 69,
+        "Temp": 2980,
+        "Pressure": 102015,
+        "Humidity":4883
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 70,
+        "Temp": 2982,
+        "Pressure": 102033,
+        "Humidity":4835
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 71,
+        "Temp": 2984,
+        "Pressure": 102036,
+        "Humidity":4920
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 72,
+        "Temp": 2997,
+        "Pressure": 102046,
+        "Humidity":4794
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 73,
+        "Temp": 2995,
+        "Pressure": 102050,
+        "Humidity":4808
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 74,
+        "Temp": 2984,
+        "Pressure": 102037,
+        "Humidity":4923
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 75,
+        "Temp": 3001,
+        "Pressure": 102030,
+        "Humidity":4650
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 76,
+        "Temp": 2987,
+        "Pressure": 102022,
+        "Humidity":4841
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 77,
+        "Temp": 2996,
+        "Pressure": 102016,
+        "Humidity":4703
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 78,
+        "Temp": 2991,
+        "Pressure": 102005,
+        "Humidity":4673
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 79,
+        "Temp": 2987,
+        "Pressure": 102012,
+        "Humidity":4628
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 80,
+        "Temp": 2974,
+        "Pressure": 101996,
+        "Humidity":4683
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 81,
+        "Temp": 2961,
+        "Pressure": 101977,
+        "Humidity":4790
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 82,
+        "Temp": 2948,
+        "Pressure": 101954,
+        "Humidity":5015
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 83,
+        "Temp": 2952,
+        "Pressure": 101902,
+        "Humidity":4967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 84,
+        "Temp": 2954,
+        "Pressure": 101880,
+        "Humidity":5014
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 85,
+        "Temp": 2960,
+        "Pressure": 101830,
+        "Humidity":5030
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 86,
+        "Temp": 2963,
+        "Pressure": 101774,
+        "Humidity":5021
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 87,
+        "Temp": 2964,
+        "Pressure": 101738,
+        "Humidity":5018
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 88,
+        "Temp": 2973,
+        "Pressure": 101700,
+        "Humidity":4964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 89,
+        "Temp": 2971,
+        "Pressure": 101675,
+        "Humidity":4962
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 90,
+        "Temp": 2963,
+        "Pressure": 101670,
+        "Humidity":5021
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 91,
+        "Temp": 2952,
+        "Pressure": 101682,
+        "Humidity":5113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 92,
+        "Temp": 2943,
+        "Pressure": 101657,
+        "Humidity":5164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 93,
+        "Temp": 2943,
+        "Pressure": 101677,
+        "Humidity":5186
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 94,
+        "Temp": 2941,
+        "Pressure": 101661,
+        "Humidity":5181
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 95,
+        "Temp": 2942,
+        "Pressure": 101647,
+        "Humidity":5171
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 96,
+        "Temp": 2944,
+        "Pressure": 101645,
+        "Humidity":5195
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 97,
+        "Temp": 2947,
+        "Pressure": 101658,
+        "Humidity":5196
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 98,
+        "Temp": 2945,
+        "Pressure": 101655,
+        "Humidity":5237
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 99,
+        "Temp": 2940,
+        "Pressure": 101661,
+        "Humidity":5280
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 100,
+        "Temp": 2955,
+        "Pressure": 101668,
+        "Humidity":5076
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 101,
+        "Temp": 2964,
+        "Pressure": 101660,
+        "Humidity":4916
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 102,
+        "Temp": 2947,
+        "Pressure": 101658,
+        "Humidity":5063
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 103,
+        "Temp": 2941,
+        "Pressure": 101683,
+        "Humidity":5192
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 104,
+        "Temp": 2931,
+        "Pressure": 101687,
+        "Humidity":5302
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 105,
+        "Temp": 2929,
+        "Pressure": 101696,
+        "Humidity":5348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 106,
+        "Temp": 2927,
+        "Pressure": 101689,
+        "Humidity":5363
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 107,
+        "Temp": 2926,
+        "Pressure": 101714,
+        "Humidity":5380
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 108,
+        "Temp": 2924,
+        "Pressure": 101715,
+        "Humidity":5402
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 109,
+        "Temp": 2921,
+        "Pressure": 101728,
+        "Humidity":5473
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 110,
+        "Temp": 2919,
+        "Pressure": 101736,
+        "Humidity":5536
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 111,
+        "Temp": 2917,
+        "Pressure": 101741,
+        "Humidity":5571
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 112,
+        "Temp": 2918,
+        "Pressure": 101756,
+        "Humidity":5609
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 113,
+        "Temp": 2917,
+        "Pressure": 101759,
+        "Humidity":5644
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 114,
+        "Temp": 2914,
+        "Pressure": 101767,
+        "Humidity":5686
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 115,
+        "Temp": 2912,
+        "Pressure": 101773,
+        "Humidity":5716
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 116,
+        "Temp": 2911,
+        "Pressure": 101791,
+        "Humidity":5739
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 117,
+        "Temp": 2911,
+        "Pressure": 101792,
+        "Humidity":5760
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 118,
+        "Temp": 2910,
+        "Pressure": 101799,
+        "Humidity":5776
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 119,
+        "Temp": 2911,
+        "Pressure": 101794,
+        "Humidity":5789
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 120,
+        "Temp": 2911,
+        "Pressure": 101810,
+        "Humidity":5799
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 121,
+        "Temp": 2910,
+        "Pressure": 101810,
+        "Humidity":5838
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 122,
+        "Temp": 2909,
+        "Pressure": 101809,
+        "Humidity":5867
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 123,
+        "Temp": 2908,
+        "Pressure": 101795,
+        "Humidity":5893
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 124,
+        "Temp": 2908,
+        "Pressure": 101795,
+        "Humidity":5918
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 125,
+        "Temp": 2908,
+        "Pressure": 101801,
+        "Humidity":5939
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 126,
+        "Temp": 2906,
+        "Pressure": 101804,
+        "Humidity":5970
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 127,
+        "Temp": 2904,
+        "Pressure": 101798,
+        "Humidity":6009
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 128,
+        "Temp": 2900,
+        "Pressure": 101773,
+        "Humidity":6024
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 129,
+        "Temp": 2896,
+        "Pressure": 101790,
+        "Humidity":6049
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 130,
+        "Temp": 2896,
+        "Pressure": 101812,
+        "Humidity":6066
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 131,
+        "Temp": 2894,
+        "Pressure": 101813,
+        "Humidity":6105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 132,
+        "Temp": 2896,
+        "Pressure": 101822,
+        "Humidity":6134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 133,
+        "Temp": 2898,
+        "Pressure": 101825,
+        "Humidity":6167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 134,
+        "Temp": 2898,
+        "Pressure": 101826,
+        "Humidity":6173
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 135,
+        "Temp": 2896,
+        "Pressure": 101817,
+        "Humidity":6183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 136,
+        "Temp": 2893,
+        "Pressure": 101794,
+        "Humidity":6197
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 137,
+        "Temp": 2887,
+        "Pressure": 101778,
+        "Humidity":6218
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 138,
+        "Temp": 2884,
+        "Pressure": 101752,
+        "Humidity":6236
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 139,
+        "Temp": 2883,
+        "Pressure": 101737,
+        "Humidity":6251
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 140,
+        "Temp": 2880,
+        "Pressure": 101719,
+        "Humidity":6273
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 141,
+        "Temp": 2878,
+        "Pressure": 101725,
+        "Humidity":6302
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 142,
+        "Temp": 2874,
+        "Pressure": 101711,
+        "Humidity":6332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 143,
+        "Temp": 2874,
+        "Pressure": 101701,
+        "Humidity":6350
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 144,
+        "Temp": 2871,
+        "Pressure": 101683,
+        "Humidity":6372
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 145,
+        "Temp": 2870,
+        "Pressure": 101660,
+        "Humidity":6363
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 146,
+        "Temp": 2868,
+        "Pressure": 101678,
+        "Humidity":6355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 147,
+        "Temp": 2867,
+        "Pressure": 101700,
+        "Humidity":6312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 148,
+        "Temp": 2866,
+        "Pressure": 101697,
+        "Humidity":6312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 149,
+        "Temp": 2867,
+        "Pressure": 101702,
+        "Humidity":6325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 150,
+        "Temp": 2867,
+        "Pressure": 101685,
+        "Humidity":6317
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 151,
+        "Temp": 2865,
+        "Pressure": 101676,
+        "Humidity":6289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 152,
+        "Temp": 2862,
+        "Pressure": 101674,
+        "Humidity":6230
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 153,
+        "Temp": 2861,
+        "Pressure": 101655,
+        "Humidity":6214
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 154,
+        "Temp": 2858,
+        "Pressure": 101652,
+        "Humidity":6179
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 155,
+        "Temp": 2854,
+        "Pressure": 101660,
+        "Humidity":6206
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 156,
+        "Temp": 2856,
+        "Pressure": 101672,
+        "Humidity":6178
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 157,
+        "Temp": 2854,
+        "Pressure": 101695,
+        "Humidity":6165
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 158,
+        "Temp": 2855,
+        "Pressure": 101722,
+        "Humidity":6152
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 159,
+        "Temp": 2855,
+        "Pressure": 101762,
+        "Humidity":6076
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 160,
+        "Temp": 2883,
+        "Pressure": 101769,
+        "Humidity":5882
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 161,
+        "Temp": 2904,
+        "Pressure": 101754,
+        "Humidity":5635
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 162,
+        "Temp": 2936,
+        "Pressure": 101773,
+        "Humidity":5312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 163,
+        "Temp": 2975,
+        "Pressure": 101769,
+        "Humidity":4897
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 164,
+        "Temp": 2998,
+        "Pressure": 101772,
+        "Humidity":4704
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 165,
+        "Temp": 2980,
+        "Pressure": 101769,
+        "Humidity":4811
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 166,
+        "Temp": 3003,
+        "Pressure": 101769,
+        "Humidity":4575
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 167,
+        "Temp": 2993,
+        "Pressure": 101752,
+        "Humidity":4633
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 168,
+        "Temp": 3013,
+        "Pressure": 101750,
+        "Humidity":4456
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 169,
+        "Temp": 2964,
+        "Pressure": 101737,
+        "Humidity":4758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 170,
+        "Temp": 2985,
+        "Pressure": 101744,
+        "Humidity":4506
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 171,
+        "Temp": 3004,
+        "Pressure": 101729,
+        "Humidity":4340
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 172,
+        "Temp": 3000,
+        "Pressure": 101718,
+        "Humidity":4361
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 173,
+        "Temp": 3008,
+        "Pressure": 101717,
+        "Humidity":4211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 174,
+        "Temp": 3010,
+        "Pressure": 101689,
+        "Humidity":4126
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 175,
+        "Temp": 3009,
+        "Pressure": 101675,
+        "Humidity":4035
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1571255, 32.70576538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 1,
+        "Temp": 2886,
+        "Pressure": 101896,
+        "Humidity":6077
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 2,
+        "Temp": 2884,
+        "Pressure": 101909,
+        "Humidity":6075
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 3,
+        "Temp": 2882,
+        "Pressure": 101901,
+        "Humidity":6078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 4,
+        "Temp": 2882,
+        "Pressure": 101911,
+        "Humidity":6078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 5,
+        "Temp": 2883,
+        "Pressure": 101905,
+        "Humidity":6067
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 6,
+        "Temp": 2884,
+        "Pressure": 101899,
+        "Humidity":6083
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 7,
+        "Temp": 2885,
+        "Pressure": 101896,
+        "Humidity":6107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 8,
+        "Temp": 2886,
+        "Pressure": 101912,
+        "Humidity":6099
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 9,
+        "Temp": 2876,
+        "Pressure": 101915,
+        "Humidity":6175
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 10,
+        "Temp": 2871,
+        "Pressure": 101908,
+        "Humidity":6195
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 11,
+        "Temp": 2876,
+        "Pressure": 101900,
+        "Humidity":6130
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 12,
+        "Temp": 2878,
+        "Pressure": 101899,
+        "Humidity":6075
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 13,
+        "Temp": 2876,
+        "Pressure": 101908,
+        "Humidity":6061
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 14,
+        "Temp": 2878,
+        "Pressure": 101888,
+        "Humidity":6044
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 15,
+        "Temp": 2876,
+        "Pressure": 101899,
+        "Humidity":6050
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 16,
+        "Temp": 2874,
+        "Pressure": 101887,
+        "Humidity":6041
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 17,
+        "Temp": 2875,
+        "Pressure": 101898,
+        "Humidity":6023
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 18,
+        "Temp": 2871,
+        "Pressure": 101905,
+        "Humidity":6048
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 19,
+        "Temp": 2870,
+        "Pressure": 101904,
+        "Humidity":6074
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 20,
+        "Temp": 2870,
+        "Pressure": 101915,
+        "Humidity":6086
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 21,
+        "Temp": 2869,
+        "Pressure": 101919,
+        "Humidity":6043
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 22,
+        "Temp": 2871,
+        "Pressure": 101924,
+        "Humidity":6002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 23,
+        "Temp": 2874,
+        "Pressure": 101929,
+        "Humidity":5969
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 24,
+        "Temp": 2878,
+        "Pressure": 101932,
+        "Humidity":5948
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 25,
+        "Temp": 2890,
+        "Pressure": 101969,
+        "Humidity":5760
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 26,
+        "Temp": 2921,
+        "Pressure": 101972,
+        "Humidity":5340
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 27,
+        "Temp": 2934,
+        "Pressure": 101988,
+        "Humidity":5127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 28,
+        "Temp": 2964,
+        "Pressure": 101998,
+        "Humidity":4745
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 29,
+        "Temp": 2974,
+        "Pressure": 102020,
+        "Humidity":4595
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 30,
+        "Temp": 2948,
+        "Pressure": 102037,
+        "Humidity":4964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 31,
+        "Temp": 2955,
+        "Pressure": 102041,
+        "Humidity":4987
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 32,
+        "Temp": 2942,
+        "Pressure": 102054,
+        "Humidity":5293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 33,
+        "Temp": 2926,
+        "Pressure": 102060,
+        "Humidity":5538
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 34,
+        "Temp": 2939,
+        "Pressure": 102048,
+        "Humidity":5414
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 35,
+        "Temp": 2940,
+        "Pressure": 102038,
+        "Humidity":5354
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 36,
+        "Temp": 2944,
+        "Pressure": 102035,
+        "Humidity":5345
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 37,
+        "Temp": 2946,
+        "Pressure": 102027,
+        "Humidity":5398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 38,
+        "Temp": 2952,
+        "Pressure": 102010,
+        "Humidity":5403
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 39,
+        "Temp": 2950,
+        "Pressure": 102023,
+        "Humidity":5305
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 40,
+        "Temp": 2942,
+        "Pressure": 102015,
+        "Humidity":5314
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 41,
+        "Temp": 2945,
+        "Pressure": 101992,
+        "Humidity":5171
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 42,
+        "Temp": 2950,
+        "Pressure": 101959,
+        "Humidity":4996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 43,
+        "Temp": 2937,
+        "Pressure": 101916,
+        "Humidity":5160
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 44,
+        "Temp": 2955,
+        "Pressure": 101887,
+        "Humidity":4987
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 45,
+        "Temp": 2967,
+        "Pressure": 101846,
+        "Humidity":4830
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 46,
+        "Temp": 2977,
+        "Pressure": 101790,
+        "Humidity":4713
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 47,
+        "Temp": 2995,
+        "Pressure": 101747,
+        "Humidity":4427
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 48,
+        "Temp": 2974,
+        "Pressure": 101714,
+        "Humidity":4726
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 49,
+        "Temp": 2965,
+        "Pressure": 101692,
+        "Humidity":4944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 50,
+        "Temp": 2956,
+        "Pressure": 101679,
+        "Humidity":5027
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 51,
+        "Temp": 2947,
+        "Pressure": 101703,
+        "Humidity":5127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 52,
+        "Temp": 2932,
+        "Pressure": 101670,
+        "Humidity":5236
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 53,
+        "Temp": 2935,
+        "Pressure": 101678,
+        "Humidity":5215
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 54,
+        "Temp": 2944,
+        "Pressure": 101671,
+        "Humidity":5111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 55,
+        "Temp": 2957,
+        "Pressure": 101657,
+        "Humidity":4933
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 56,
+        "Temp": 2963,
+        "Pressure": 101646,
+        "Humidity":4821
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 57,
+        "Temp": 2963,
+        "Pressure": 101668,
+        "Humidity":4833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 58,
+        "Temp": 2933,
+        "Pressure": 101661,
+        "Humidity":5191
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 59,
+        "Temp": 2927,
+        "Pressure": 101676,
+        "Humidity":5264
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 60,
+        "Temp": 2925,
+        "Pressure": 101680,
+        "Humidity":5297
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 61,
+        "Temp": 2928,
+        "Pressure": 101670,
+        "Humidity":5279
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 62,
+        "Temp": 2927,
+        "Pressure": 101663,
+        "Humidity":5284
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 63,
+        "Temp": 2924,
+        "Pressure": 101695,
+        "Humidity":5332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 64,
+        "Temp": 2922,
+        "Pressure": 101694,
+        "Humidity":5366
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 65,
+        "Temp": 2919,
+        "Pressure": 101704,
+        "Humidity":5399
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 66,
+        "Temp": 2919,
+        "Pressure": 101705,
+        "Humidity":5416
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 67,
+        "Temp": 2916,
+        "Pressure": 101718,
+        "Humidity":5436
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 68,
+        "Temp": 2915,
+        "Pressure": 101715,
+        "Humidity":5455
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 69,
+        "Temp": 2911,
+        "Pressure": 101734,
+        "Humidity":5503
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 70,
+        "Temp": 2908,
+        "Pressure": 101738,
+        "Humidity":5569
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 71,
+        "Temp": 2907,
+        "Pressure": 101747,
+        "Humidity":5603
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 72,
+        "Temp": 2907,
+        "Pressure": 101764,
+        "Humidity":5640
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 73,
+        "Temp": 2906,
+        "Pressure": 101770,
+        "Humidity":5670
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 74,
+        "Temp": 2904,
+        "Pressure": 101778,
+        "Humidity":5705
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 75,
+        "Temp": 2906,
+        "Pressure": 101779,
+        "Humidity":5732
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 76,
+        "Temp": 2904,
+        "Pressure": 101795,
+        "Humidity":5753
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 77,
+        "Temp": 2903,
+        "Pressure": 101798,
+        "Humidity":5764
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 78,
+        "Temp": 2903,
+        "Pressure": 101803,
+        "Humidity":5770
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 79,
+        "Temp": 2903,
+        "Pressure": 101798,
+        "Humidity":5778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 80,
+        "Temp": 2903,
+        "Pressure": 101812,
+        "Humidity":5815
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 81,
+        "Temp": 2903,
+        "Pressure": 101817,
+        "Humidity":5817
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 82,
+        "Temp": 2901,
+        "Pressure": 101810,
+        "Humidity":5847
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 83,
+        "Temp": 2900,
+        "Pressure": 101809,
+        "Humidity":5864
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 84,
+        "Temp": 2900,
+        "Pressure": 101799,
+        "Humidity":5894
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 85,
+        "Temp": 2899,
+        "Pressure": 101810,
+        "Humidity":5912
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 86,
+        "Temp": 2897,
+        "Pressure": 101804,
+        "Humidity":5967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 87,
+        "Temp": 2894,
+        "Pressure": 101803,
+        "Humidity":5998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 88,
+        "Temp": 2888,
+        "Pressure": 101781,
+        "Humidity":6080
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 89,
+        "Temp": 2886,
+        "Pressure": 101796,
+        "Humidity":6134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 90,
+        "Temp": 2891,
+        "Pressure": 101815,
+        "Humidity":6094
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 91,
+        "Temp": 2890,
+        "Pressure": 101811,
+        "Humidity":6091
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 92,
+        "Temp": 2890,
+        "Pressure": 101823,
+        "Humidity":6109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 93,
+        "Temp": 2890,
+        "Pressure": 101831,
+        "Humidity":6122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 94,
+        "Temp": 2884,
+        "Pressure": 101836,
+        "Humidity":6200
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 95,
+        "Temp": 2885,
+        "Pressure": 101825,
+        "Humidity":6264
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 96,
+        "Temp": 2880,
+        "Pressure": 101796,
+        "Humidity":6306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 97,
+        "Temp": 2877,
+        "Pressure": 101781,
+        "Humidity":6318
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 98,
+        "Temp": 2873,
+        "Pressure": 101756,
+        "Humidity":6368
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 99,
+        "Temp": 2873,
+        "Pressure": 101741,
+        "Humidity":6376
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 100,
+        "Temp": 2873,
+        "Pressure": 101722,
+        "Humidity":6396
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 101,
+        "Temp": 2870,
+        "Pressure": 101723,
+        "Humidity":6435
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 102,
+        "Temp": 2869,
+        "Pressure": 101711,
+        "Humidity":6460
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 103,
+        "Temp": 2867,
+        "Pressure": 101705,
+        "Humidity":6492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 104,
+        "Temp": 2864,
+        "Pressure": 101688,
+        "Humidity":6499
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 105,
+        "Temp": 2863,
+        "Pressure": 101663,
+        "Humidity":6453
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 106,
+        "Temp": 2858,
+        "Pressure": 101676,
+        "Humidity":6467
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 107,
+        "Temp": 2857,
+        "Pressure": 101697,
+        "Humidity":6424
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 108,
+        "Temp": 2857,
+        "Pressure": 101696,
+        "Humidity":6420
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 109,
+        "Temp": 2859,
+        "Pressure": 101705,
+        "Humidity":6397
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 110,
+        "Temp": 2856,
+        "Pressure": 101684,
+        "Humidity":6430
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 111,
+        "Temp": 2854,
+        "Pressure": 101676,
+        "Humidity":6394
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 112,
+        "Temp": 2853,
+        "Pressure": 101675,
+        "Humidity":6368
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 113,
+        "Temp": 2847,
+        "Pressure": 101656,
+        "Humidity":6345
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 114,
+        "Temp": 2845,
+        "Pressure": 101651,
+        "Humidity":6313
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 115,
+        "Temp": 2842,
+        "Pressure": 101659,
+        "Humidity":6299
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 116,
+        "Temp": 2844,
+        "Pressure": 101669,
+        "Humidity":6260
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 117,
+        "Temp": 2844,
+        "Pressure": 101697,
+        "Humidity":6266
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 118,
+        "Temp": 2844,
+        "Pressure": 101719,
+        "Humidity":6259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 119,
+        "Temp": 2845,
+        "Pressure": 101758,
+        "Humidity":6208
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 120,
+        "Temp": 2853,
+        "Pressure": 101772,
+        "Humidity":6161
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 121,
+        "Temp": 2882,
+        "Pressure": 101763,
+        "Humidity":5806
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 122,
+        "Temp": 2915,
+        "Pressure": 101770,
+        "Humidity":5313
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 123,
+        "Temp": 2950,
+        "Pressure": 101778,
+        "Humidity":4736
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 124,
+        "Temp": 2969,
+        "Pressure": 101780,
+        "Humidity":4530
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 125,
+        "Temp": 2940,
+        "Pressure": 101775,
+        "Humidity":4850
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 126,
+        "Temp": 2956,
+        "Pressure": 101782,
+        "Humidity":4742
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 127,
+        "Temp": 2941,
+        "Pressure": 101759,
+        "Humidity":4978
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 128,
+        "Temp": 2955,
+        "Pressure": 101760,
+        "Humidity":4990
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 129,
+        "Temp": 2939,
+        "Pressure": 101743,
+        "Humidity":5162
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 130,
+        "Temp": 2941,
+        "Pressure": 101753,
+        "Humidity":5237
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 131,
+        "Temp": 2951,
+        "Pressure": 101741,
+        "Humidity":5162
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 132,
+        "Temp": 2950,
+        "Pressure": 101735,
+        "Humidity":5216
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 133,
+        "Temp": 2960,
+        "Pressure": 101734,
+        "Humidity":5126
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 134,
+        "Temp": 2969,
+        "Pressure": 101709,
+        "Humidity":5059
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 135,
+        "Temp": 2967,
+        "Pressure": 101694,
+        "Humidity":4997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 136,
+        "Temp": 2980,
+        "Pressure": 101678,
+        "Humidity":4815
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 137,
+        "Temp": 2994,
+        "Pressure": 101651,
+        "Humidity":4651
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 138,
+        "Temp": 2999,
+        "Pressure": 101613,
+        "Humidity":4355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 139,
+        "Temp": 2980,
+        "Pressure": 101598,
+        "Humidity":4512
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 140,
+        "Temp": 2972,
+        "Pressure": 101568,
+        "Humidity":4380
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 141,
+        "Temp": 2985,
+        "Pressure": 101544,
+        "Humidity":4079
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 142,
+        "Temp": 2997,
+        "Pressure": 101521,
+        "Humidity":3924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 143,
+        "Temp": 2978,
+        "Pressure": 101522,
+        "Humidity":4078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 144,
+        "Temp": 2960,
+        "Pressure": 101503,
+        "Humidity":4274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 145,
+        "Temp": 2943,
+        "Pressure": 101483,
+        "Humidity":4468
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 146,
+        "Temp": 2951,
+        "Pressure": 101460,
+        "Humidity":4381
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 147,
+        "Temp": 2945,
+        "Pressure": 101445,
+        "Humidity":4348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 148,
+        "Temp": 2947,
+        "Pressure": 101414,
+        "Humidity":4305
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 149,
+        "Temp": 2950,
+        "Pressure": 101407,
+        "Humidity":4303
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 150,
+        "Temp": 2968,
+        "Pressure": 101374,
+        "Humidity":4205
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 151,
+        "Temp": 2970,
+        "Pressure": 101353,
+        "Humidity":4204
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 152,
+        "Temp": 2976,
+        "Pressure": 101350,
+        "Humidity":4144
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 153,
+        "Temp": 2965,
+        "Pressure": 101342,
+        "Humidity":4175
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 154,
+        "Temp": 2939,
+        "Pressure": 101343,
+        "Humidity":4438
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 155,
+        "Temp": 2938,
+        "Pressure": 101351,
+        "Humidity":4444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 156,
+        "Temp": 2935,
+        "Pressure": 101347,
+        "Humidity":4454
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 157,
+        "Temp": 2935,
+        "Pressure": 101353,
+        "Humidity":4453
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 158,
+        "Temp": 2935,
+        "Pressure": 101349,
+        "Humidity":4461
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 159,
+        "Temp": 2927,
+        "Pressure": 101364,
+        "Humidity":4553
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 160,
+        "Temp": 2921,
+        "Pressure": 101382,
+        "Humidity":4615
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 161,
+        "Temp": 2917,
+        "Pressure": 101396,
+        "Humidity":4651
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 162,
+        "Temp": 2911,
+        "Pressure": 101406,
+        "Humidity":4697
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 163,
+        "Temp": 2909,
+        "Pressure": 101421,
+        "Humidity":4721
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 164,
+        "Temp": 2909,
+        "Pressure": 101428,
+        "Humidity":4697
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 165,
+        "Temp": 2910,
+        "Pressure": 101424,
+        "Humidity":4620
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 166,
+        "Temp": 2913,
+        "Pressure": 101445,
+        "Humidity":4541
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 167,
+        "Temp": 2911,
+        "Pressure": 101475,
+        "Humidity":4537
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 168,
+        "Temp": 2910,
+        "Pressure": 101525,
+        "Humidity":4548
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 169,
+        "Temp": 2907,
+        "Pressure": 101537,
+        "Humidity":4604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 170,
+        "Temp": 2907,
+        "Pressure": 101553,
+        "Humidity":4610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 171,
+        "Temp": 2903,
+        "Pressure": 101557,
+        "Humidity":4677
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 172,
+        "Temp": 2902,
+        "Pressure": 101547,
+        "Humidity":4779
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 173,
+        "Temp": 2900,
+        "Pressure": 101569,
+        "Humidity":4836
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 174,
+        "Temp": 2896,
+        "Pressure": 101575,
+        "Humidity":4922
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 175,
+        "Temp": 2894,
+        "Pressure": 101574,
+        "Humidity":4952
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1590011, 32.70583407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 1,
+        "Temp": 2948,
+        "Pressure": 101440,
+        "Humidity":5132
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 2,
+        "Temp": 2945,
+        "Pressure": 101422,
+        "Humidity":5197
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 3,
+        "Temp": 2947,
+        "Pressure": 101444,
+        "Humidity":5177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 4,
+        "Temp": 2939,
+        "Pressure": 101437,
+        "Humidity":5204
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 5,
+        "Temp": 2938,
+        "Pressure": 101443,
+        "Humidity":5271
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 6,
+        "Temp": 2936,
+        "Pressure": 101438,
+        "Humidity":5293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 7,
+        "Temp": 2934,
+        "Pressure": 101446,
+        "Humidity":5326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 8,
+        "Temp": 2929,
+        "Pressure": 101423,
+        "Humidity":5499
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 9,
+        "Temp": 2926,
+        "Pressure": 101438,
+        "Humidity":5638
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 10,
+        "Temp": 2922,
+        "Pressure": 101431,
+        "Humidity":5788
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 11,
+        "Temp": 2921,
+        "Pressure": 101462,
+        "Humidity":5935
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 12,
+        "Temp": 2920,
+        "Pressure": 101487,
+        "Humidity":6076
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 13,
+        "Temp": 2917,
+        "Pressure": 101488,
+        "Humidity":6178
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 14,
+        "Temp": 2920,
+        "Pressure": 101504,
+        "Humidity":6287
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 15,
+        "Temp": 2917,
+        "Pressure": 101520,
+        "Humidity":6388
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 16,
+        "Temp": 2916,
+        "Pressure": 101523,
+        "Humidity":6425
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 17,
+        "Temp": 2916,
+        "Pressure": 101545,
+        "Humidity":6486
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 18,
+        "Temp": 2915,
+        "Pressure": 101547,
+        "Humidity":6513
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 19,
+        "Temp": 2916,
+        "Pressure": 101581,
+        "Humidity":6517
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 20,
+        "Temp": 2915,
+        "Pressure": 101588,
+        "Humidity":6543
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 21,
+        "Temp": 2915,
+        "Pressure": 101608,
+        "Humidity":6530
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 22,
+        "Temp": 2915,
+        "Pressure": 101631,
+        "Humidity":6513
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 23,
+        "Temp": 2915,
+        "Pressure": 101635,
+        "Humidity":6523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 24,
+        "Temp": 2914,
+        "Pressure": 101648,
+        "Humidity":6536
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 25,
+        "Temp": 2912,
+        "Pressure": 101664,
+        "Humidity":6544
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 26,
+        "Temp": 2914,
+        "Pressure": 101670,
+        "Humidity":6578
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 27,
+        "Temp": 2914,
+        "Pressure": 101680,
+        "Humidity":6550
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 28,
+        "Temp": 2911,
+        "Pressure": 101673,
+        "Humidity":6571
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 29,
+        "Temp": 2911,
+        "Pressure": 101662,
+        "Humidity":6589
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 30,
+        "Temp": 2913,
+        "Pressure": 101680,
+        "Humidity":6552
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 31,
+        "Temp": 2914,
+        "Pressure": 101686,
+        "Humidity":6540
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 32,
+        "Temp": 2911,
+        "Pressure": 101673,
+        "Humidity":6529
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 33,
+        "Temp": 2909,
+        "Pressure": 101681,
+        "Humidity":6608
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 34,
+        "Temp": 2910,
+        "Pressure": 101671,
+        "Humidity":6657
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 35,
+        "Temp": 2909,
+        "Pressure": 101679,
+        "Humidity":6718
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 36,
+        "Temp": 2906,
+        "Pressure": 101681,
+        "Humidity":6731
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 37,
+        "Temp": 2905,
+        "Pressure": 101682,
+        "Humidity":6792
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 38,
+        "Temp": 2904,
+        "Pressure": 101692,
+        "Humidity":6762
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 39,
+        "Temp": 2899,
+        "Pressure": 101697,
+        "Humidity":6799
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 40,
+        "Temp": 2901,
+        "Pressure": 101702,
+        "Humidity":6784
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 41,
+        "Temp": 2899,
+        "Pressure": 101698,
+        "Humidity":6766
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 42,
+        "Temp": 2900,
+        "Pressure": 101705,
+        "Humidity":6777
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 43,
+        "Temp": 2902,
+        "Pressure": 101700,
+        "Humidity":6734
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 44,
+        "Temp": 2902,
+        "Pressure": 101698,
+        "Humidity":6724
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 45,
+        "Temp": 2902,
+        "Pressure": 101702,
+        "Humidity":6642
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 46,
+        "Temp": 2901,
+        "Pressure": 101697,
+        "Humidity":6637
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 47,
+        "Temp": 2900,
+        "Pressure": 101688,
+        "Humidity":6603
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 48,
+        "Temp": 2898,
+        "Pressure": 101691,
+        "Humidity":6661
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 49,
+        "Temp": 2896,
+        "Pressure": 101709,
+        "Humidity":6632
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 50,
+        "Temp": 2894,
+        "Pressure": 101702,
+        "Humidity":6603
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 51,
+        "Temp": 2888,
+        "Pressure": 101683,
+        "Humidity":6639
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 52,
+        "Temp": 2889,
+        "Pressure": 101687,
+        "Humidity":6638
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 53,
+        "Temp": 2891,
+        "Pressure": 101692,
+        "Humidity":6573
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 54,
+        "Temp": 2887,
+        "Pressure": 101682,
+        "Humidity":6564
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 55,
+        "Temp": 2888,
+        "Pressure": 101686,
+        "Humidity":6540
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 56,
+        "Temp": 2887,
+        "Pressure": 101689,
+        "Humidity":6540
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 57,
+        "Temp": 2887,
+        "Pressure": 101686,
+        "Humidity":6497
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 58,
+        "Temp": 2886,
+        "Pressure": 101692,
+        "Humidity":6413
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 59,
+        "Temp": 2885,
+        "Pressure": 101691,
+        "Humidity":6418
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 60,
+        "Temp": 2884,
+        "Pressure": 101705,
+        "Humidity":6448
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 61,
+        "Temp": 2881,
+        "Pressure": 101712,
+        "Humidity":6450
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 62,
+        "Temp": 2883,
+        "Pressure": 101697,
+        "Humidity":6403
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 63,
+        "Temp": 2885,
+        "Pressure": 101716,
+        "Humidity":6344
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 64,
+        "Temp": 2887,
+        "Pressure": 101730,
+        "Humidity":6261
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 65,
+        "Temp": 2888,
+        "Pressure": 101753,
+        "Humidity":6246
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 66,
+        "Temp": 2889,
+        "Pressure": 101762,
+        "Humidity":6163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 67,
+        "Temp": 2892,
+        "Pressure": 101783,
+        "Humidity":6150
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 68,
+        "Temp": 2898,
+        "Pressure": 101791,
+        "Humidity":6068
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 69,
+        "Temp": 2924,
+        "Pressure": 101800,
+        "Humidity":5754
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 70,
+        "Temp": 2938,
+        "Pressure": 101818,
+        "Humidity":5340
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 71,
+        "Temp": 2927,
+        "Pressure": 101827,
+        "Humidity":5545
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 72,
+        "Temp": 2922,
+        "Pressure": 101834,
+        "Humidity":5677
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 73,
+        "Temp": 2925,
+        "Pressure": 101844,
+        "Humidity":5624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 74,
+        "Temp": 2929,
+        "Pressure": 101839,
+        "Humidity":5570
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 75,
+        "Temp": 2934,
+        "Pressure": 101830,
+        "Humidity":5562
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 76,
+        "Temp": 2944,
+        "Pressure": 101823,
+        "Humidity":5482
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 77,
+        "Temp": 2954,
+        "Pressure": 101814,
+        "Humidity":5326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 78,
+        "Temp": 2954,
+        "Pressure": 101808,
+        "Humidity":5278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 79,
+        "Temp": 2950,
+        "Pressure": 101811,
+        "Humidity":5250
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 80,
+        "Temp": 2954,
+        "Pressure": 101807,
+        "Humidity":5271
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {      "type": "Feature",
+      "properties": {
+        "Timestamp": 81,
+        "Temp": 2939,
+        "Pressure": 101558,
+        "Humidity":4360
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 82,
+        "Temp": 2932,
+        "Pressure": 101549,
+        "Humidity":4429
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 83,
+        "Temp": 2936,
+        "Pressure": 101531,
+        "Humidity":4295
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 84,
+        "Temp": 2927,
+        "Pressure": 101537,
+        "Humidity":4383
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 85,
+        "Temp": 2937,
+        "Pressure": 101540,
+        "Humidity":4330
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 86,
+        "Temp": 2949,
+        "Pressure": 101520,
+        "Humidity":4185
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 87,
+        "Temp": 2950,
+        "Pressure": 101517,
+        "Humidity":4092
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 88,
+        "Temp": 2962,
+        "Pressure": 101500,
+        "Humidity":3902
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 89,
+        "Temp": 2966,
+        "Pressure": 101482,
+        "Humidity":3797
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 90,
+        "Temp": 2951,
+        "Pressure": 101798,
+        "Humidity":5241
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 91,
+        "Temp": 2950,
+        "Pressure": 101770,
+        "Humidity":5168
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 92,
+        "Temp": 2956,
+        "Pressure": 101736,
+        "Humidity":5129
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 93,
+        "Temp": 2960,
+        "Pressure": 101696,
+        "Humidity":5063
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 94,
+        "Temp": 2966,
+        "Pressure": 101664,
+        "Humidity":5079
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 95,
+        "Temp": 2969,
+        "Pressure": 101603,
+        "Humidity":5013
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 96,
+        "Temp": 2976,
+        "Pressure": 101561,
+        "Humidity":4893
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 97,
+        "Temp": 2979,
+        "Pressure": 101521,
+        "Humidity":4781
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 98,
+        "Temp": 2991,
+        "Pressure": 101493,
+        "Humidity":4573
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 99,
+        "Temp": 2981,
+        "Pressure": 101477,
+        "Humidity":4640
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 100,
+        "Temp": 2980,
+        "Pressure": 101496,
+        "Humidity":4687
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 101,
+        "Temp": 2976,
+        "Pressure": 101472,
+        "Humidity":4751
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 102,
+        "Temp": 2984,
+        "Pressure": 101484,
+        "Humidity":4577
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 103,
+        "Temp": 2994,
+        "Pressure": 101466,
+        "Humidity":4420
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 104,
+        "Temp": 2994,
+        "Pressure": 101471,
+        "Humidity":4363
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 105,
+        "Temp": 2984,
+        "Pressure": 101448,
+        "Humidity":4568
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 106,
+        "Temp": 2960,
+        "Pressure": 101456,
+        "Humidity":4812
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 107,
+        "Temp": 2952,
+        "Pressure": 101470,
+        "Humidity":4888
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 108,
+        "Temp": 2975,
+        "Pressure": 101465,
+        "Humidity":4703
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 109,
+        "Temp": 2975,
+        "Pressure": 101466,
+        "Humidity":4798
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 110,
+        "Temp": 2944,
+        "Pressure": 101463,
+        "Humidity":4977
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 111,
+        "Temp": 2939,
+        "Pressure": 101466,
+        "Humidity":5037
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 112,
+        "Temp": 2932,
+        "Pressure": 101467,
+        "Humidity":5179
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 113,
+        "Temp": 2927,
+        "Pressure": 101483,
+        "Humidity":5266
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 114,
+        "Temp": 2926,
+        "Pressure": 101501,
+        "Humidity":5369
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 115,
+        "Temp": 2925,
+        "Pressure": 101505,
+        "Humidity":5423
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 116,
+        "Temp": 2922,
+        "Pressure": 101497,
+        "Humidity":5473
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 117,
+        "Temp": 2919,
+        "Pressure": 101511,
+        "Humidity":5536
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 118,
+        "Temp": 2919,
+        "Pressure": 101521,
+        "Humidity":5610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 119,
+        "Temp": 2916,
+        "Pressure": 101524,
+        "Humidity":5744
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 120,
+        "Temp": 2914,
+        "Pressure": 101542,
+        "Humidity":5872
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 121,
+        "Temp": 2912,
+        "Pressure": 101558,
+        "Humidity":5993
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 122,
+        "Temp": 2910,
+        "Pressure": 101556,
+        "Humidity":6074
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 123,
+        "Temp": 2911,
+        "Pressure": 101569,
+        "Humidity":6170
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 124,
+        "Temp": 2911,
+        "Pressure": 101574,
+        "Humidity":6216
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 125,
+        "Temp": 2912,
+        "Pressure": 101575,
+        "Humidity":6273
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 126,
+        "Temp": 2911,
+        "Pressure": 101591,
+        "Humidity":6278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 127,
+        "Temp": 2909,
+        "Pressure": 101594,
+        "Humidity":6326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 128,
+        "Temp": 2908,
+        "Pressure": 101599,
+        "Humidity":6338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 129,
+        "Temp": 2908,
+        "Pressure": 101598,
+        "Humidity":6387
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 130,
+        "Temp": 2905,
+        "Pressure": 101610,
+        "Humidity":6424
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 131,
+        "Temp": 2906,
+        "Pressure": 101602,
+        "Humidity":6510
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 132,
+        "Temp": 2904,
+        "Pressure": 101597,
+        "Humidity":6541
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 133,
+        "Temp": 2905,
+        "Pressure": 101583,
+        "Humidity":6604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 134,
+        "Temp": 2902,
+        "Pressure": 101599,
+        "Humidity":6624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 135,
+        "Temp": 2901,
+        "Pressure": 101593,
+        "Humidity":6739
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 136,
+        "Temp": 2897,
+        "Pressure": 101599,
+        "Humidity":6801
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 137,
+        "Temp": 2896,
+        "Pressure": 101585,
+        "Humidity":6863
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 138,
+        "Temp": 2894,
+        "Pressure": 101582,
+        "Humidity":6868
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 139,
+        "Temp": 2894,
+        "Pressure": 101600,
+        "Humidity":6945
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 140,
+        "Temp": 2893,
+        "Pressure": 101602,
+        "Humidity":6977
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 141,
+        "Temp": 2891,
+        "Pressure": 101615,
+        "Humidity":7033
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 142,
+        "Temp": 2890,
+        "Pressure": 101616,
+        "Humidity":7063
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 143,
+        "Temp": 2891,
+        "Pressure": 101625,
+        "Humidity":7114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 144,
+        "Temp": 2893,
+        "Pressure": 101621,
+        "Humidity":7138
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 145,
+        "Temp": 2894,
+        "Pressure": 101589,
+        "Humidity":7131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 146,
+        "Temp": 2893,
+        "Pressure": 101580,
+        "Humidity":7178
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 147,
+        "Temp": 2891,
+        "Pressure": 101563,
+        "Humidity":7193
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 148,
+        "Temp": 2889,
+        "Pressure": 101534,
+        "Humidity":7238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 149,
+        "Temp": 2886,
+        "Pressure": 101523,
+        "Humidity":7283
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 150,
+        "Temp": 2882,
+        "Pressure": 101515,
+        "Humidity":7372
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 151,
+        "Temp": 2880,
+        "Pressure": 101503,
+        "Humidity":7401
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 152,
+        "Temp": 2879,
+        "Pressure": 101506,
+        "Humidity":7440
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 153,
+        "Temp": 2879,
+        "Pressure": 101480,
+        "Humidity":7410
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 154,
+        "Temp": 2878,
+        "Pressure": 101457,
+        "Humidity":7289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 155,
+        "Temp": 2876,
+        "Pressure": 101455,
+        "Humidity":7134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 156,
+        "Temp": 2877,
+        "Pressure": 101478,
+        "Humidity":7021
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 157,
+        "Temp": 2877,
+        "Pressure": 101484,
+        "Humidity":6877
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 158,
+        "Temp": 2878,
+        "Pressure": 101492,
+        "Humidity":6777
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 159,
+        "Temp": 2877,
+        "Pressure": 101472,
+        "Humidity":6666
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 160,
+        "Temp": 2877,
+        "Pressure": 101475,
+        "Humidity":6633
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 161,
+        "Temp": 2875,
+        "Pressure": 101462,
+        "Humidity":6585
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 162,
+        "Temp": 2872,
+        "Pressure": 101456,
+        "Humidity":6558
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 163,
+        "Temp": 2871,
+        "Pressure": 101447,
+        "Humidity":6498
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 164,
+        "Temp": 2871,
+        "Pressure": 101444,
+        "Humidity":6365
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 165,
+        "Temp": 2873,
+        "Pressure": 101457,
+        "Humidity":6180
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 166,
+        "Temp": 2875,
+        "Pressure": 101475,
+        "Humidity":6012
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 167,
+        "Temp": 2875,
+        "Pressure": 101498,
+        "Humidity":5877
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 168,
+        "Temp": 2872,
+        "Pressure": 101525,
+        "Humidity":5840
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 169,
+        "Temp": 2874,
+        "Pressure": 101559,
+        "Humidity":5819
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 170,
+        "Temp": 2876,
+        "Pressure": 101557,
+        "Humidity":5728
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 171,
+        "Temp": 2879,
+        "Pressure": 101552,
+        "Humidity":5619
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 172,
+        "Temp": 2887,
+        "Pressure": 101569,
+        "Humidity":5497
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 173,
+        "Temp": 2890,
+        "Pressure": 101569,
+        "Humidity":5349
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 174,
+        "Temp": 2932,
+        "Pressure": 101569,
+        "Humidity":4813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": 175,
+        "Temp": 2957,
+        "Pressure": 101569,
+        "Humidity":4301
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16119, 32.71560268]
+      }
+    }
+  ]
+}
+
