@@ -188,7 +188,7 @@
           var warning   = document.getElementById("warning");
           var numeric   = document.getElementById("numeric");
 
-          document.getElementById("warning").innerHTML = "Ozone levels are bad!";
+          document.getElementById("numeric").innerHTML = "Ozone levels are bad!";
           // var ozoneMedium = ((-0.01034 + 0.0002211*humidity + .0003525*temp)+(1.68 + -.05495*pressure + -.0001346*temp))/2;
           //
           // switch(ozoneMedium)
@@ -247,8 +247,7 @@
               </div>
               <input type="submit" value="Submit" onclick="ozonePredictor()">
               <div id="result">
-                <h1 id="warning"></h1>
-                <p id="numeric"></p>
+                <p id="numeric">hello</p>
               </div>
             </div>
           </form>
