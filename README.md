@@ -43,6 +43,9 @@ env:
 ```
 px push
 ```
+## Username and password
+user:     amsuarez 
+password: CsufPredix12!
 
 ## Built With
 
