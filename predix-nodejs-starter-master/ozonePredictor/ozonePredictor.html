@@ -230,24 +230,22 @@
           var numeric   = document.getElementById("numeric");
           var ozoneMedium = ((-0.01034 + 0.0002211*humidity + .0003525*temp)+(1.68 + -.05495*pressure + -.0001346*temp))/2;
 
-          switch(ozoneMedium)
-          {
-            case 0<=ozoneMedium && ozoneMedium<=.05:
-              document.getElementById("warning").innerHTML = "Ozone levels are good!";
-              alert("Ozone levels are good!");
-              break;
-            case .05 < ozoneMedium && ozoneMedium <= .30:
-              document.getElementById("warning").innerHTML = "Ozone levels are ok!";
-              alert("Ozone levels are ok!")
-              break;
-            case .3 < ozoneMedium && ozoneMedium <= 25:
-              document.getElementById("warning").innerHTML = "Ozone levels are bad!";
-              alert("Ozone levels are bad!")
-              break;
-            case default:
-              document.getElementById("warning").innerHTML = "Ozone levels cant be read";
-              alert("Ozone levels cant be read")
-              break;
+
+              if(0<=ozoneMedium && ozoneMedium<=.05)
+              {
+                alert("Ozone levels are good!");
+              }
+              else if (case .05 < ozoneMedium && ozoneMedium <= .30)
+              {
+                alert("Ozone levels are ok!");
+              }
+              else if( .3 < ozoneMedium && ozoneMedium <= 25)
+              {
+                alert("Ozone levels are bad!");
+              }
+              else{
+                alert("Ozone levels cant be read");
+              }
           }
 
         }
