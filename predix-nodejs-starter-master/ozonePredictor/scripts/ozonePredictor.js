@@ -14,7 +14,7 @@ function ozonePredictor()
   var warning   = document.getElementById("warning");
   var numeric   = document.getElementById("numeric");
 
-  document.getElementById("result").innerHTML = "Ozone levels are bad!";
+  document.getElementById("warning").innerHTML = "Ozone levels are bad!";
   // var ozoneMedium = ((-0.01034 + 0.0002211*humidity + .0003525*temp)+(1.68 + -.05495*pressure + -.0001346*temp))/2;
   //
   // switch(ozoneMedium)
