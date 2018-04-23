@@ -203,7 +203,7 @@ if (config.isUaaConfigured()) {
     }), function(req, res) {
     console.log('Accessing the Airis route');
     // modify this to send a secure.html file if desired.
-    res.sendFile(path.join(__dirname + '/../heatmaps/Airis.html'));
+    res.sendFile(path.join(__dirname + '/../Airis/Airis.html'));
     //res.send('<h2>This is a sample secure route.</h2>');
   });
 
@@ -212,7 +212,7 @@ if (config.isUaaConfigured()) {
     }), function(req, res) {
     console.log('Accessing the ozonePredictor route');
     // modify this to send a secure.html file if desired.
-    res.sendFile(path.join(__dirname + '/../heatmaps/Humidity.html'));
+    res.sendFile(path.join(__dirname + '/../humidity/Humidity.html'));
     //res.send('<h2>This is a sample secure route.</h2>');
   });
 
@@ -221,7 +221,7 @@ if (config.isUaaConfigured()) {
     }), function(req, res) {
     console.log('Accessing the ozonePredictor route');
     // modify this to send a secure.html file if desired.
-    res.sendFile(path.join(__dirname + '/../heatmaps/Pressure.html'));
+    res.sendFile(path.join(__dirname + '/../pressure/Pressure.html'));
     //res.send('<h2>This is a sample secure route.</h2>');
   });
 
@@ -230,7 +230,7 @@ if (config.isUaaConfigured()) {
     }), function(req, res) {
     console.log('Accessing the ozonePredictor route');
     // modify this to send a secure.html file if desired.
-    res.sendFile(path.join(__dirname + '/../heatmaps/Temperature.html'));
+    res.sendFile(path.join(__dirname + '/../temperature/Temperature.html'));
     //res.send('<h2>This is a sample secure route.</h2>');
   });
 
